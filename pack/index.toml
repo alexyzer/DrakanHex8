@@ -70,6 +70,11 @@ hash = "0dcd168a4e070b2c9027a3267293a04b17d9f3c8588d6a35c9bd3c5ff0a5e2f4"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "d89b1d59b9865cad867c71bbd2bc749b66fe49c307a23e77020b73b3d65b65f1"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "21dac4ca5555ae4bfe18666a7ed5d38e76a51596bb2d1bc11ea689c7277633f4"
 metafile = true
