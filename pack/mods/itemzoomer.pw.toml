@@ -1,0 +1,12 @@
+filename = "itemzoomer-forge-2.1.0-1.20.1.jar"
+name = "Item Zoomer"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "729e82bdb5800ee7917b3e8a38911689b4bf8b45"
+url = "https://cdn.modrinth.com/data/OgBgQ2NP/versions/F8TzOwbU/itemzoomer-forge-2.1.0-1.20.1.jar"
+
+[update.modrinth]
+mod-id = "OgBgQ2NP"
+version = "F8TzOwbU"

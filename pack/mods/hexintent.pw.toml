@@ -1,0 +1,12 @@
+filename = "manifestation-2.1.5.jar"
+name = "HexIntent"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bfc7e49771d3e68fff82f80e9c44fc4b2ba7d807"
+url = "https://cdn.modrinth.com/data/4G64Rm66/versions/BEiWRZGb/manifestation-2.1.5.jar"
+
+[update.modrinth]
+mod-id = "4G64Rm66"
+version = "BEiWRZGb"

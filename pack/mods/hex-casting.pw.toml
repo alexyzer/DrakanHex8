@@ -1,0 +1,12 @@
+filename = "hexcasting-forge-1.20.1-0.11.3.jar"
+name = "Hex Casting"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7005974f352bae9f34d0d2492e69bf9437f945e0"
+url = "https://cdn.modrinth.com/data/nTW3yKrm/versions/O6xIFHAg/hexcasting-forge-1.20.1-0.11.3.jar"
+
+[update.modrinth]
+mod-id = "nTW3yKrm"
+version = "O6xIFHAg"

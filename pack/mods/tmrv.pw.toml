@@ -1,0 +1,12 @@
+filename = "toomanyrecipeviewers-0.8.1+mc.20.1.jar"
+name = "TooManyRecipeViewers"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "c83ea731d2977c178ac98502a79013bdbba916be"
+url = "https://cdn.modrinth.com/data/yFypjcfd/versions/OncYLjJM/toomanyrecipeviewers-0.8.1%2Bmc.20.1.jar"
+
+[update.modrinth]
+mod-id = "yFypjcfd"
+version = "OncYLjJM"
