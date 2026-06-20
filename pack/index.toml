@@ -363,6 +363,21 @@ hash = "1be2aae66c37e83f4f650abf01ba47789243068e51464dccd597b18c13a89b9a"
 metafile = true
 
 [[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "bf624091fcb4ed6deca262831dd93135f7c6ead32799f2073c8fbc10a8d3ad6f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "f3a2a8bdfc106e112ad66e3ada24aefd9a2ecd96e4952e69389b6a3c1b633cc2"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "43e3437707450b746d7d9fae94dfb54941b1a0459f76cd4d23ed4d848ab0796e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/Create_Style_for_Refined_Storage (1).zip"
 hash = "2000718c3b8c34ed0b4a88e753ae3346f8f8eb5b99204234b96e6e3c48bdfc6c"
 
