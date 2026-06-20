@@ -80,6 +80,11 @@ hash = "d89b1d59b9865cad867c71bbd2bc749b66fe49c307a23e77020b73b3d65b65f1"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "211ad7fee88f3dcfa1bc69e7616ae856c7f5f9f25597b806c4a51cb2121ec3b6"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "21dac4ca5555ae4bfe18666a7ed5d38e76a51596bb2d1bc11ea689c7277633f4"
 metafile = true
