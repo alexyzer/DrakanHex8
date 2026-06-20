@@ -95,6 +95,18 @@ hash = "21dac4ca5555ae4bfe18666a7ed5d38e76a51596bb2d1bc11ea689c7277633f4"
 metafile = true
 
 [[files]]
+file = "mods/discord_chat_mod-forge-2.6.2.jar"
+hash = "bdf70510a08fdde89c099dabc8092c911ce09603498473410914caae62cfadd2"
+
+[[files]]
+file = "mods/easyauth-local-sessions-1.0.0-tweaked.jar"
+hash = "ae80477014feaaddac626acd1ea059a7e76eb358f72e93d651d1e12b89c8be43"
+
+[[files]]
+file = "mods/easyauth-mc1.20-3.4.3.jar"
+hash = "26e0b871c7d73962b16d1d90c9eef490db4ae924d0da021c6df3d532d6d336bd"
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "1d7b146bc1636cb50fedc7eed930ac9acc78669fa9af386d3a1a1603659e3fbd"
 metafile = true
