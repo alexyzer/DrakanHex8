@@ -211,6 +211,10 @@ file = "mods/hexpose-1.0.0-tweaked.jar"
 hash = "9708d37514298f49c10cff1ece20e12c205a8b57b26b5665fb1896395970fe56"
 
 [[files]]
+file = "mods/hextweaks-5.3.3.jar"
+hash = "fa5ef0deded66ebfae0b563660b0f2517065d72971ef2bb6aa9c44261d912761"
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7ecc36680c898600d5c0867b2772fb9993a5410231fad464563496365a884032"
 metafile = true
