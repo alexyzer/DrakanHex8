@@ -11,6 +11,11 @@ hash = "443b0de10bc35a58ccad44dd2d97fae69815a52d16faa3c2cc98f0cb5d115225"
 metafile = true
 
 [[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "3d8be55f14760357d0676b6e551c3d6afa4494ffbc06629b874230a940a04e17"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "cba969c4c61751224c3a3a1c16a06b66b0ea8737a2a55dd9a524ac3187926489"
 metafile = true
