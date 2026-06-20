@@ -115,6 +115,11 @@ hash = "d86261e7a3236105034e9e1ceeb0901bcd9f7c0c6f1b907d26a600c4abc95180"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "7b411f636c4a61db20882904e79625750ff1230c83763a0a426c04a8bbf8d7f1"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "4a687669e7dd43a6088eea7ef085ecfd38d6c6ecc8e8537e4f8f3837a1061281"
 metafile = true
@@ -286,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "793203b85d288b63c20a27d818632df9b234b95c079ab92e7dc0e4db9160d4c9"
+metafile = true
+
+[[files]]
+file = "mods/quick-skin.pw.toml"
+hash = "07f0ca6b5a77c6df8e13d53c703b1a82780e31e348882203f6ec97f324242f8d"
 metafile = true
 
 [[files]]
