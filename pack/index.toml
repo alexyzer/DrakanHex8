@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "hextweaks-5.3.3.jar"
+hash = "fa5ef0deded66ebfae0b563660b0f2517065d72971ef2bb6aa9c44261d912761"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5636c7db194bbe011c42a788ad053eba63db38ac77fb0edb0a62e37bfdd491eb"
 metafile = true
