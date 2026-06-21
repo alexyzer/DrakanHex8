@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "values": [
+        "hexical:charm",
+        "hexical:conjure_mesh",
+        "hexical:greater_blink",
+        "hexical:promote_lamp",
+        "hexical:get_evocation",
+        "hexical:set_evocation",
+        "complexhex:summonblockdisplay",
+        "complexhex:summonitemdisplay",
+        "complexhex:summontextdisplay",
+        "hextweaks:infusion",
+        "hextweaks:you_like_drinking_potions",
+        "ephemera:magearmor",
+        "ephemera:repair",
+        "ephemera:invisibility",
+        "hex_machina:expose_mind",
+        "oneironaut:infusemedia",
+        "oneironaut:dimteleport",
+        "oneironaut:swapspace",
+        "oneironaut:applynotmissing",
+        "oneironaut:resistdetection"
+    ]
+}

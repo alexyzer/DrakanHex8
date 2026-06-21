@@ -400,6 +400,38 @@ hash = "43e3437707450b746d7d9fae94dfb54941b1a0459f76cd4d23ed4d848ab0796e"
 metafile = true
 
 [[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/complexhex/loot_tables/blocks/hexbox.json"
+hash = "bfeac44f1d86aed9e81b90465af4fcad82abc401e84bbd824635bb8a35e7540a"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/hexal/loot_tables/blocks/relay.json"
+hash = "c5dfcf720fc97b291da290d3b509102a2c12cb17c11b178c4f1dbdac5b6f8f63"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/tags/hexcasting/action/can_start_enlighten.json"
+hash = "01104e3c4c68ccd1027e2face6bbbb4e07fdc3ac14b776854ebebffaf2684250"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/tags/hexcasting/action/per_world_pattern.json"
+hash = "01104e3c4c68ccd1027e2face6bbbb4e07fdc3ac14b776854ebebffaf2684250"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/tags/hexcasting/action/requires_enlightenment.json"
+hash = "10bf06723c59dc775303c0813d4594c3cb43a7645f3b69a092352116fccadf96"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/minecraft/tags/blocks/mineable/pickaxe.json"
+hash = "2cde23524f75cfd5506fb1ae87c84a58a1e9ebbd444f034bb6e64364a1646e08"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/oneironaut/worldgen/placed_feature/volcano_basic_placed.json"
+hash = "3459c25d17c3ce50be848a2213f391eefe98632977a97d48a447c3862a5d4ff3"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/pack.mcmeta"
+hash = "b3e2f648b7d37363584063a45477a64df27f7252c6b2d034c4648d05c9894263"
+
+[[files]]
 file = "resourcepacks/Create_Style_for_Refined_Storage (1).zip"
 hash = "2000718c3b8c34ed0b4a88e753ae3346f8f8eb5b99204234b96e6e3c48bdfc6c"
 
