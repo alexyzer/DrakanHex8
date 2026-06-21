@@ -350,6 +350,11 @@ hash = "523d35efb90ebf81ec60ecebc3ab6d1f463104e5d7d8e4700e19a83d7fe4a7b9"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "45ae4947e6e51e556adc92e212fcd2c7ab00e61e960ea70f408872d3e83de352"
+metafile = true
+
+[[files]]
 file = "mods/slate-works.pw.toml"
 hash = "5c33dc3f0a265546ed5ac08f82dc0291db95f66e960ebf016bca326d0e60188c"
 metafile = true
