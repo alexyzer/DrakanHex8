@@ -122,6 +122,11 @@ hash = "4c9d493df3502fb6b3200979a2fb4771dd3957f09ab8a9b4f45bc0f88e428bec"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "84e6ec23b1d9e88d4e1147d3d3c7c50b387f4b7ce06c52d3d8b6ceb6412907ee"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "2c41eb9789621601e9ca3869a5a9497037d2dacf1fdb95940b20710c339bdc56"
 metafile = true
@@ -327,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/places.pw.toml"
 hash = "549afce6af1be7524e5d3e31e05eeb296e48f94b0198243155ddddfa732a3f1e"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
