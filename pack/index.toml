@@ -30,6 +30,11 @@ hash = "f257604545941d11f4f44d4616ea24427ef0f8e1a056bbb65567081b6f7efb31"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "62392ad801b58819a5821bdbde21686cf338cf0416ece1721db551f8d2497db3"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
 metafile = true
