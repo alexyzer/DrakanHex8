@@ -432,9 +432,11 @@ file = "moonlight-global-datapacks/DrakanHex/pack.mcmeta"
 hash = "b3e2f648b7d37363584063a45477a64df27f7252c6b2d034c4648d05c9894263"
 
 [[files]]
-file = "resourcepacks/Create_Style_for_Refined_Storage (1).zip"
-hash = "2000718c3b8c34ed0b4a88e753ae3346f8f8eb5b99204234b96e6e3c48bdfc6c"
+file = "resourcepacks/aures-create-style-for-refined-storage.pw.toml"
+hash = "65b19cb24d4286ef62ee1a0d4768c4bcca2db2fe1f13f84b1bb46fc9c6df01e2"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Stoneborn Refined Storage -1.20.1.zip"
-hash = "e382eed1bd4bc6b8b2463c968672d9b70a098f08e0851d418a387e14c4f748aa"
+file = "resourcepacks/stoneborn-refined-storage.pw.toml"
+hash = "232184759077afdd7a1e5c432b52dfcc3e597a48b22b5af8a9b5562561f8b901"
+metafile = true
