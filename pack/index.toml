@@ -84,6 +84,11 @@ hash = "68582f35ddecdec70db26f9df196d8a84ad5ae4022158c66761346df292476da"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "5d13f1f4f50cd6c290add668c294ea099b0b3514786da8d20992c715554d65d1"
 metafile = true
