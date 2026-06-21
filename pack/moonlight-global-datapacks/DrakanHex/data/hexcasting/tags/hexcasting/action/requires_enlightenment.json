@@ -1,4 +1,4 @@
-{
+    {
     "replace": false,
     "values": [
         "hexical:charm",
@@ -12,10 +12,6 @@
         "complexhex:summontextdisplay",
         "hextweaks:infusion",
         "hextweaks:you_like_drinking_potions",
-        "ephemera:magearmor",
-        "ephemera:repair",
-        "ephemera:invisibility",
-        "hex_machina:expose_mind",
         "oneironaut:infusemedia",
         "oneironaut:dimteleport",
         "oneironaut:swapspace",
