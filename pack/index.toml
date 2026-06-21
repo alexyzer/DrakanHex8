@@ -261,6 +261,11 @@ hash = "2fbfd1bc267f5e6d450d10182603c13c67f35afd384c7be63c1f82544fb190c2"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
+metafile = true
+
+[[files]]
 file = "mods/keybindspurger.pw.toml"
 hash = "9e09e5a494ef35cb2297e69ada56a4861d201f9fa595ff8f2e84249c029cc283"
 metafile = true
