@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "a507b132e2e7cba8eb4d4f0591b8216054bf1f3009e0d6799cdb812dc3e5cc33"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
