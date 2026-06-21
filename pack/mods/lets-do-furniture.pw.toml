@@ -1,12 +1,13 @@
-filename = "letsdo-furniture-forge-1.0.4.jar"
 name = "[Let's Do] Furniture"
+filename = "letsdo-furniture-forge-1.0.4.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/3JQDJrYW/versions/CGCP1SRw/letsdo-furniture-forge-1.0.4.jar"
 hash-format = "sha1"
 hash = "272cdaa252b23888ad7fae6959bdfe89317a35bd"
-url = "https://cdn.modrinth.com/data/3JQDJrYW/versions/CGCP1SRw/letsdo-furniture-forge-1.0.4.jar"
 
+[update]
 [update.modrinth]
 mod-id = "3JQDJrYW"
 version = "CGCP1SRw"

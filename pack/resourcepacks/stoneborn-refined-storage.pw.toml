@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/cA9fx12o/versions/T5jOowHH/Stoneborn%20Refined%20Storage%20-1.20.1.zip"
-hash-format = "sha512"
-hash = "477e5870230b11815a335e564e6840bc874b9452517e0cbbfe296cf78139254eba972c218eb84164cc2cc73690eedd7a486ba0343df6b4764e07b481097478c3"
+hash-format = "sha1"
+hash = "af5dc414336140e2c0f16b01b3da530229efa45b"
 
 [update]
 [update.modrinth]

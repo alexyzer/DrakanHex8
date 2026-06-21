@@ -1,12 +1,13 @@
-filename = "ioticblocks-forge-1.0.2+1.20.1.jar"
 name = "IoticBlocks"
+filename = "ioticblocks-forge-1.0.2+1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/u3PPsXzt/versions/vLJ8yO47/ioticblocks-forge-1.0.2%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "c1372e8db5cec7ae8a3558c70c41447402b81434"
-url = "https://cdn.modrinth.com/data/u3PPsXzt/versions/vLJ8yO47/ioticblocks-forge-1.0.2%2B1.20.1.jar"
 
+[update]
 [update.modrinth]
 mod-id = "u3PPsXzt"
 version = "vLJ8yO47"

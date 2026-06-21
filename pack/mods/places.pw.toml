@@ -1,12 +1,13 @@
-filename = "places-0.4.6-forge-1.20.1.jar"
 name = "Places"
+filename = "places-0.4.9-forge-1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Ic0nDh2h/versions/kMjFRc7k/places-0.4.9-forge-1.20.1.jar"
 hash-format = "sha1"
-hash = "4e01dea8be27095a1bfedcb8178f413b44a6745d"
-url = "https://cdn.modrinth.com/data/Ic0nDh2h/versions/LWZBV1SL/places-0.4.6-forge-1.20.1.jar"
+hash = "1abf7008a9b1a6bbb4c9cb329cf833d57bd1dcaf"
 
+[update]
 [update.modrinth]
 mod-id = "Ic0nDh2h"
-version = "LWZBV1SL"
+version = "kMjFRc7k"

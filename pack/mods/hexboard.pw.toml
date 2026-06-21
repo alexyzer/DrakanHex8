@@ -1,12 +1,13 @@
-filename = "hexboard-forge-0.1.1.jar"
 name = "HexBoard"
+filename = "hexboard-forge-0.1.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/gcEUAPye/versions/IY3eeUQG/hexboard-forge-0.1.1.jar"
 hash-format = "sha1"
 hash = "51823de296f8388f466bf9ea2f092ab49bec9a21"
-url = "https://cdn.modrinth.com/data/gcEUAPye/versions/IY3eeUQG/hexboard-forge-0.1.1.jar"
 
+[update]
 [update.modrinth]
 mod-id = "gcEUAPye"
 version = "IY3eeUQG"
