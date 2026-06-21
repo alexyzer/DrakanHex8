@@ -432,10 +432,6 @@ file = "moonlight-global-datapacks/DrakanHex/pack.mcmeta"
 hash = "b3e2f648b7d37363584063a45477a64df27f7252c6b2d034c4648d05c9894263"
 
 [[files]]
-file = "packUtil2.py"
-hash = "019660e3675ba22e86a3dd074cb6c074c14df996557509a7d07c39f9d32c35a9"
-
-[[files]]
 file = "resourcepacks/aures-create-style-for-refined-storage.pw.toml"
 hash = "8345dfa4eaf4986da1e05b2af28f419cc8e7cdaccc2d23972a12534d45010a66"
 metafile = true
