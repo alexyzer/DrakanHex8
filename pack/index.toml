@@ -1,8 +1,19 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/hexcasting-client.toml"
+hash = "9e343bea3ab5cc0f79c85199e909081a4e7d52f887c9d7851e3b2cecb359b359"
+preserve = true
+
+[[files]]
+file = "config/hexcessible.json"
+hash = "68e1b102f0154a4e91f51be7bea0ff3516e2bd10d7e888152f6ffb93d565a1f4"
+preserve = true
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "a507b132e2e7cba8eb4d4f0591b8216054bf1f3009e0d6799cdb812dc3e5cc33"
+preserve = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -288,6 +299,11 @@ metafile = true
 [[files]]
 file = "mods/lithosphere.pw.toml"
 hash = "a51574a782d684175b82c4308b6eee9e909c36b0bb59c3bc0e043293ce03eec6"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "ccb79452729ccb62e2a3afa88b80e834411ac1e9ed4712cbd27be6ba98d4ff79"
 metafile = true
 
 [[files]]
