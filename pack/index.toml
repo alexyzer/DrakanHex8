@@ -513,3 +513,8 @@ metafile = true
 file = "resourcepacks/stoneborn-refined-storage.pw.toml"
 hash = "c17342bc8350684dccc4e223380a1819801f5c643a7fb4ac717693a3c1b5f249"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "3df86ca0aeae7a1924716389637ad5cffafad880acaf230c4415d0d6f0daf35d"
+preserve = true
