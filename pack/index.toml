@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/EasyAuth/extended.conf"
+hash = "30c9b314449aa654a66d1a091b53698f5fcfda46d77d0961fc4e39f5e6acfd17"
+
+[[files]]
+file = "config/EasyAuth/main.conf"
+hash = "09033a40fd5944635b1f8e0387bf6d5d17cd462dc8b239639ca1f959c5f0b820"
+
+[[files]]
 file = "config/hexcasting-client.toml"
 hash = "9e343bea3ab5cc0f79c85199e909081a4e7d52f887c9d7851e3b2cecb359b359"
 preserve = true
