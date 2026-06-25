@@ -300,6 +300,11 @@ hash = "902183df4a8670f1a38abebf586e2b2842329d90115dcc2d9c11851e799fe7f7"
 metafile = true
 
 [[files]]
+file = "mods/inv-view-forge.pw.toml"
+hash = "c1be7ddccaa7f134cb66caee5a3b5d241356d58b7339f87ad311fd0e52a33d5f"
+metafile = true
+
+[[files]]
 file = "mods/ioticblocks.pw.toml"
 hash = "86f1c6d24375292c1db11720edca797ad57ec7f237be8a9374d2c6bbdda5f388"
 metafile = true
