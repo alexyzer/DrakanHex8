@@ -11,3 +11,9 @@ hash = "984f774e71790deaec674c7587bd24e0711871b2"
 [update.modrinth]
 mod-id = "GchcoXML"
 version = "iQ1SwGc3"
+
+
+[option]
+optional = true
+default	= false
+description = "Поддержка шейдеров."
