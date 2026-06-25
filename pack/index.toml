@@ -355,6 +355,11 @@ hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "f5e19eff418ff12946e7cd4f10e16508ba7261c9cd9685e3d87016fa21c127d1"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "5f5ee7f47eb5f9b136ad86085a97c742b3a3365524f26cc6477fa44d6d4c9381"
 metafile = true
@@ -445,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "90aeec3c153df2289d5e0a5fc05dda2e25db5f4cf9004bdadceb769f91703712"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "97dfcdfab0014335123a246fb4cb0b94e1d00ce05d45bd3bea1498e3722514b7"
 metafile = true
 
 [[files]]
