@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "62392ad801b58819a5821bdbde21686cf338cf0416ece1721db551f8d2497db3"
+hash = "b4c87f972a7933239ea31636d9b02fea985429320de4310b7dda5b8510831640"
 metafile = true
 
 [[files]]
@@ -454,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "97dfcdfab0014335123a246fb4cb0b94e1d00ce05d45bd3bea1498e3722514b7"
+hash = "a36256b148c0a655229aed55fff38e7cc6d093759c08800a413eb5533e31b827"
 metafile = true
 
 [[files]]

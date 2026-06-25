@@ -15,4 +15,4 @@ version = "6vE02T1J"
 [option]
 optional = true
 default	= false
-description = "Звуки для каждого действия"
+description = "Звуки для каждого действия."
