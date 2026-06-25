@@ -11,3 +11,8 @@ hash = "341c1a94bc6f4db3adb56eee342f20170e6a4c3453e01031abcaa3a9cc92bc88ceaeaf67
 [update.modrinth]
 mod-id = "w7ThoJFB"
 version = "PEJt9yRp"
+
+[option]
+optional = true
+default	= true
+description = "Хороший настраиваемый зум."
