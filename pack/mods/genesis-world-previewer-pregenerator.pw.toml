@@ -1,6 +1,6 @@
 name = "Genesis - World Previewer & Pregenerator"
 filename = "genesis-1.0.0-1.20.1-FORGE.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/xXuFelru/versions/10fzZKmp/genesis-1.0.0-1.20.1-FORGE.jar"
@@ -11,3 +11,8 @@ hash = "d7b495496459007a2cd5fda26edebb5d29fbb710"
 [update.modrinth]
 mod-id = "xXuFelru"
 version = "10fzZKmp"
+
+[option]
+optional = true
+default	= false
+description = "Предпросмотр мира."

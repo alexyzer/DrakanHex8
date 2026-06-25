@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/genesis-world-previewer-pregenerator.pw.toml"
-hash = "1b233b4868a5dc887ab35ac8ecb220e8f191b1a8fcbebc25f1429a101ddfd3a0"
+hash = "f586121d2239385b73ff0178b673d2376fddfbdede3cbb956d13e655a9b3882e"
 metafile = true
 
 [[files]]
