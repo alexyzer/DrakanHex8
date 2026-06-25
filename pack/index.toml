@@ -295,6 +295,11 @@ hash = "86f1c6d24375292c1db11720edca797ad57ec7f237be8a9374d2c6bbdda5f388"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "757686e8efbe2d31ff9e3182a9978a2a42ee8c1cd2759bb37785ece337b52ded"
+metafile = true
+
+[[files]]
 file = "mods/itemzoomer.pw.toml"
 hash = "2fbfd1bc267f5e6d450d10182603c13c67f35afd384c7be63c1f82544fb190c2"
 metafile = true
