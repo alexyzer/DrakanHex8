@@ -175,6 +175,11 @@ file = "mods/discord_chat_mod-forge-2.6.2.jar"
 hash = "bdf70510a08fdde89c099dabc8092c911ce09603498473410914caae62cfadd2"
 
 [[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "a59b8d3f24dca88fc93b11707423719e1350fc68d7a9884ff47b252734b1a05f"
+metafile = true
+
+[[files]]
 file = "mods/easyauth-local-sessions-1.0.0-tweaked.jar"
 hash = "ae80477014feaaddac626acd1ea059a7e76eb358f72e93d651d1e12b89c8be43"
 
