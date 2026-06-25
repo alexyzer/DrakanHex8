@@ -230,6 +230,11 @@ hash = "b8ffa48e1f9e0cae2d396e1ca0942ab7ee99fc675c81208fb38909696b0ec968"
 metafile = true
 
 [[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "6406896463cb7c34d86cbe583b6fb2852c2306129d9770e403d817ac451a81a4"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "6abb2b13654a4ae87bb38f7b47a770438657bf24c51f9fbe5ab596b8ece33d03"
 metafile = true
@@ -490,6 +495,11 @@ metafile = true
 [[files]]
 file = "mods/straw-statues.pw.toml"
 hash = "791be45440111d5edac5246dc8db707e25f5534783212ebe3909ad40b7230a4b"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
 metafile = true
 
 [[files]]
