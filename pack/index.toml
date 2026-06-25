@@ -82,6 +82,11 @@ hash = "bb111f705b13e7fca180b273cd1dcf78842dc52b00149ffc67cc74f4f1fcca3a"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "ca55f3ceb2ccbf454645c4eb691109220ad14205ca2592caf46223d81f73ced3"
+metafile = true
+
+[[files]]
 file = "mods/chipped-express.pw.toml"
 hash = "8da87b74bc37e64d8df28a39416c7020738d97295db5cab7d1b9e9f8814fdcf8"
 metafile = true
@@ -606,6 +611,11 @@ hash = "b3e2f648b7d37363584063a45477a64df27f7252c6b2d034c4648d05c9894263"
 [[files]]
 file = "resourcepacks/aures-create-style-for-refined-storage.pw.toml"
 hash = "8345dfa4eaf4986da1e05b2af28f419cc8e7cdaccc2d23972a12534d45010a66"
+metafile = true
+
+[[files]]
+file = "resourcepacks/computer-craft-recreated.pw.toml"
+hash = "81de186c008b60dc1525a9cd717a8318d8b5240b312b604a7abb3d1a29a35869"
 metafile = true
 
 [[files]]
