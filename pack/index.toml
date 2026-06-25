@@ -629,6 +629,11 @@ hash = "81de186c008b60dc1525a9cd717a8318d8b5240b312b604a7abb3d1a29a35869"
 metafile = true
 
 [[files]]
+file = "resourcepacks/create-computercraft.pw.toml"
+hash = "5acf665b02f3a79024123c7824fd13bcb29b955c8d03c13806e13253352fb012"
+metafile = true
+
+[[files]]
 file = "resourcepacks/stoneborn-refined-storage.pw.toml"
 hash = "c17342bc8350684dccc4e223380a1819801f5c643a7fb4ac717693a3c1b5f249"
 metafile = true
