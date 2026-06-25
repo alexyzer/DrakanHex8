@@ -138,6 +138,11 @@ hash = "d07bdbfd246533ad3297d39811701df4bb2280adaaffe3431fdf3b85787eb9e6"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "ed9728b7150af5a02de85e2b4b3730b85f1422b3d578c5c3418462b064f05844"
+metafile = true
+
+[[files]]
 file = "mods/discord_chat_mod-forge-2.6.2.jar"
 hash = "bdf70510a08fdde89c099dabc8092c911ce09603498473410914caae62cfadd2"
 
