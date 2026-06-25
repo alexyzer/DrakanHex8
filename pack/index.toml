@@ -300,8 +300,8 @@ hash = "3a68262a467c928d50b6e1a749ffcdd7a22efd7c94ee46297e1405727c7f61f6"
 metafile = true
 
 [[files]]
-file = "mods/hexpose-1.0.0-tweaked.jar"
-hash = "9708d37514298f49c10cff1ece20e12c205a8b57b26b5665fb1896395970fe56"
+file = "mods/hexpose-1.0.0-31999cf2.jar"
+hash = "ad85da67632f77e6b8e5078d88de076082d1a79196d266f7c29be78e30e859c2"
 
 [[files]]
 file = "mods/hextweaks-5.3.3.jar"
