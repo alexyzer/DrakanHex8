@@ -443,6 +443,11 @@ hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
 metafile = true
 
 [[files]]
+file = "mods/straw-statues.pw.toml"
+hash = "791be45440111d5edac5246dc8db707e25f5534783212ebe3909ad40b7230a4b"
+metafile = true
+
+[[files]]
 file = "mods/tmrv.pw.toml"
 hash = "04b6812cab1763596e5e71457c09aa31146e9cc7b122ed94fae3cf6b9661eab8"
 metafile = true
