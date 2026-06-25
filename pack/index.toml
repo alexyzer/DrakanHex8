@@ -37,6 +37,11 @@ hash = "a507b132e2e7cba8eb4d4f0591b8216054bf1f3009e0d6799cdb812dc3e5cc33"
 preserve = true
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "c7af4f96de5fa87d892dfd38ac42ce3fb55d738bdf38506550277838ca44b643"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
