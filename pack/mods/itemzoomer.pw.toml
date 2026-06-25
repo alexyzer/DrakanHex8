@@ -11,3 +11,8 @@ hash = "1c2fa7e33a1cf5838faaf9dc01c55d0addf8fccb"
 [update.modrinth]
 mod-id = "OgBgQ2NP"
 version = "pGlAwJXV"
+
+[option]
+optional = true
+default	= true
+description = "Увеличенный просмотр предметов."
