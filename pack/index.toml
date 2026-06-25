@@ -584,6 +584,22 @@ file = "moonlight-global-datapacks/DrakanHex/data/oneironaut/worldgen/placed_fea
 hash = "3459c25d17c3ce50be848a2213f391eefe98632977a97d48a447c3862a5d4ff3"
 
 [[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/places/worldgen/biome/alpha_beach.json"
+hash = "5dbff4ec946b8cb12ab3bd487e4f5bab42fcafe61ad3244eaeeee62645dc9535"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/places/worldgen/biome/alpha_ocean.json"
+hash = "5dbff4ec946b8cb12ab3bd487e4f5bab42fcafe61ad3244eaeeee62645dc9535"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/places/worldgen/biome/alpha_plains.json"
+hash = "37fa29f4915f0fbb042c188d5ad3847f95fbc5e2d3bc72a173e31c438ad8a977"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/places/worldgen/biome/alpha_river.json"
+hash = "5dbff4ec946b8cb12ab3bd487e4f5bab42fcafe61ad3244eaeeee62645dc9535"
+
+[[files]]
 file = "moonlight-global-datapacks/DrakanHex/pack.mcmeta"
 hash = "b3e2f648b7d37363584063a45477a64df27f7252c6b2d034c4648d05c9894263"
 
