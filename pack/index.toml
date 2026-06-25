@@ -143,6 +143,11 @@ hash = "ed9728b7150af5a02de85e2b4b3730b85f1422b3d578c5c3418462b064f05844"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "44afb1ada76bb0a51204f39b742969e1084823abe697237a421f18ff1cd04d1b"
+metafile = true
+
+[[files]]
 file = "mods/discord_chat_mod-forge-2.6.2.jar"
 hash = "bdf70510a08fdde89c099dabc8092c911ce09603498473410914caae62cfadd2"
 
@@ -278,6 +283,11 @@ hash = "9708d37514298f49c10cff1ece20e12c205a8b57b26b5665fb1896395970fe56"
 [[files]]
 file = "mods/hextweaks-5.3.3.jar"
 hash = "fa5ef0deded66ebfae0b563660b0f2517065d72971ef2bb6aa9c44261d912761"
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "b5155604a98bb5fd86e378ebe636030ed76d799d83f98a9dbbbfcb534f503d30"
+metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
