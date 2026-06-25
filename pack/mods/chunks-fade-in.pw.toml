@@ -11,3 +11,8 @@ hash = "2a7b83ec748e303063e778e2c33f0ebd62932db9"
 [update.modrinth]
 mod-id = "JaNmzvA8"
 version = "JVKU8Rac"
+
+[option]
+optional = true
+default	= false
+description = "Плавное появление чанков."
