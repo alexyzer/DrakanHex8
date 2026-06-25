@@ -13,6 +13,11 @@ file = "config/crash_assistant/config.toml"
 hash = "3bfca43b8a0c909d6020bb1c8de27f7f303db7449db924afdadd85262b47f5c9"
 
 [[files]]
+file = "config/figura.json"
+hash = "9c47a439af16b5516822327d283e412d63403365925fb848081498bdf92d9fff"
+preserve = true
+
+[[files]]
 file = "config/hexcasting-client.toml"
 hash = "9e343bea3ab5cc0f79c85199e909081a4e7d52f887c9d7851e3b2cecb359b359"
 preserve = true
