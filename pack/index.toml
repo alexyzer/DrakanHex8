@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/EasyAuth/extended.conf"
-hash = "30c9b314449aa654a66d1a091b53698f5fcfda46d77d0961fc4e39f5e6acfd17"
+hash = "4c6645f176446947b3cadf37d4f4dfc3d555f40d6ecf036e28dc357af7300172"
 
 [[files]]
 file = "config/EasyAuth/main.conf"
