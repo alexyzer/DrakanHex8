@@ -9,6 +9,10 @@ file = "config/EasyAuth/main.conf"
 hash = "09033a40fd5944635b1f8e0387bf6d5d17cd462dc8b239639ca1f959c5f0b820"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "3bfca43b8a0c909d6020bb1c8de27f7f303db7449db924afdadd85262b47f5c9"
+
+[[files]]
 file = "config/hexcasting-client.toml"
 hash = "9e343bea3ab5cc0f79c85199e909081a4e7d52f887c9d7851e3b2cecb359b359"
 preserve = true
@@ -120,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "5d13f1f4f50cd6c290add668c294ea099b0b3514786da8d20992c715554d65d1"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "4d8cc9fa798c407e109b66b2e054a99cb8c6fe3995f2b0d33b564b64cbc55496"
 metafile = true
 
 [[files]]
