@@ -466,6 +466,11 @@ file = "mods/oneironaut-1.0.5.jar"
 hash = "cb2a05bf8832729df707221a43f25d09d05ff28779fe7d4bd3e0a27215321900"
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "5280600aefd2b944d584c8946865e1b5d445ffc5709bfe96d0ca57f663e22403"
+metafile = true
+
+[[files]]
 file = "mods/overevaluate-1.0.0-dec128.jar"
 hash = "ca08e208c1aa615bfaaf0eed0eee1cf9f1e94a4db4e41829d89b0eadce60adf2"
 
