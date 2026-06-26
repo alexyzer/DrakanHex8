@@ -40,6 +40,10 @@ hash = "68e1b102f0154a4e91f51be7bea0ff3516e2bd10d7e888152f6ffb93d565a1f4"
 preserve = true
 
 [[files]]
+file = "config/lmft.json"
+hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "a507b132e2e7cba8eb4d4f0591b8216054bf1f3009e0d6799cdb812dc3e5cc33"
 preserve = true
@@ -456,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "e0b3868f01ac63c79a851f6a89bb6f8e763c6fac5ceeb0f63373f1400acb5ca4"
+hash = "7043b1170bccf3153c51a3edce60eaa93d2ab75ec79bdb7c02885dcd1ef1162d"
 metafile = true
 
 [[files]]
