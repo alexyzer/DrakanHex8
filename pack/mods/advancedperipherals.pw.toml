@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/SOw6jD6x/versions/mIP0ApJY/AdvancedPeripherals-1.20.1-0.7.48r.jar"
-hash-format = "sha512"
-hash = "6f47380de6a74625045630e366a1d6b51a251621e98fdb78c165bdd7e0f9abc443935102d83184ff2e18ae4d018d6d8518a0eb6174cfcdb4f9b28f8dab2ee65f"
+hash-format = "sha1"
+hash = "c93aa2998b54775dc4859f00530d04965b5c5dd1"
 
 [update]
 [update.modrinth]

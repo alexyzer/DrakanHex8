@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yIWYj2mo/versions/8xOSfyfX/discord_chat_mod-forge-1.20.1-2.7.0.jar"
-hash-format = "sha512"
-hash = "52f68ce44e895072b89b954b6dc7442a6df231c217496ba0b01770900c5e1d90eb71bbf109d0d1c0bb568ab902e20510b4db056e1fe83ce3eda24c0368718b5b"
+hash-format = "sha1"
+hash = "81bd5f5ac3dba3d0773cb3768590e30d18f277d0"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Q6Hj9z4p/versions/4pEZysZU/caduceus-forge-0.2.1%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "474b1c8b51179a650092e29c69ba46c56f35675e07a28c644cf1edf84fc94bc7063899252e89832b4839c02f0048bd601738e0f6e366f3e3564af56bee871d5d"
+hash-format = "sha1"
+hash = "03355233265491af71fd9384452512009407d401"
 
 [update]
 [update.modrinth]

@@ -14,5 +14,5 @@ version = "pGlAwJXV"
 
 [option]
 optional = true
-default	= true
 description = "Увеличенный просмотр предметов."
+default = true

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ic0nDh2h/versions/EqSPx4YH/places-0.4.9a-forge-1.20.1.jar"
-hash-format = "sha512"
-hash = "b618700916f755c80fe2dc54275afe0468a323253e07ea3d220ff353875378cfa4be5c18e05022dee397c0d0bd98b2b2ddabd7a801306e1c3aa561392656f894"
+hash-format = "sha1"
+hash = "10dc34c1e7b872312e10fc11409535068039f0bf"
 
 [update]
 [update.modrinth]

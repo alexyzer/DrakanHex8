@@ -14,5 +14,5 @@ version = "7JVXOe3K"
 
 [option]
 optional = true
-default	= true
 description = "Улучшенная работа с инвентарём."
+default = true
