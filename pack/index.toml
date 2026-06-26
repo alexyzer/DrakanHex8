@@ -610,6 +610,11 @@ hash = "a59f275610d0a65d15c31b310623e6b97a2458c11d10294300c0fab3ada6b6a0"
 metafile = true
 
 [[files]]
+file = "mods/yigd.pw.toml"
+hash = "fc1d7a1ee1bb2d4906b2686d105c82b67297e8a8376bd3882fea0fdb7e6499eb"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "d12ee67c1c3085b8a487c528018c85701a87cee48d4d1fd645bed0f0974d235b"
 metafile = true
