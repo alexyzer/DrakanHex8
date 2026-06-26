@@ -176,8 +176,9 @@ hash = "44afb1ada76bb0a51204f39b742969e1084823abe697237a421f18ff1cd04d1b"
 metafile = true
 
 [[files]]
-file = "mods/discord_chat_mod-forge-2.6.2.jar"
-hash = "bdf70510a08fdde89c099dabc8092c911ce09603498473410914caae62cfadd2"
+file = "mods/discord-chat-connect.pw.toml"
+hash = "4946216ce0fea17968c9ecc62b91fa2fc383d1e8c6da05c3af41d058d1ecb041"
+metafile = true
 
 [[files]]
 file = "mods/ducky-periphs.pw.toml"
