@@ -575,8 +575,16 @@ file = "moonlight-global-datapacks/DrakanHex/data/complexhex/loot_tables/blocks/
 hash = "bfeac44f1d86aed9e81b90465af4fcad82abc401e84bbd824635bb8a35e7540a"
 
 [[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/forge/loot_modifiers/global_loot_modifiers.json"
+hash = "374e9f09fd958c44d36d8b08b3e5ebda7f4a41688ceaf64aaa647cf1fff52bc8"
+
+[[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexal/loot_tables/blocks/relay.json"
 hash = "c5dfcf720fc97b291da290d3b509102a2c12cb17c11b178c4f1dbdac5b6f8f63"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/loot_modifiers/scroll/places/chests/file_loot_table.json"
+hash = "bb762486e5ff7ca6009bd9ed16bbefc63425d2d8c3a0d1111a6f2aaabe3acb5e"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/tags/hexcasting/action/can_start_enlighten.json"
