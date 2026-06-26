@@ -41,7 +41,7 @@ claimableDimensionsList = []
 allowExistingClaimsInUnclaimableDimensions = true
 allowExistingForceloadsInUnclaimableDimensions = false
 claimsSynchronization = "ALL"
-claimWelcomeMessages = true
+claimWelcomeMessages = false
 
 [serverConfig.claims.protection]
 friendlyChunkProtectedEntityListType = "ALL_BUT"

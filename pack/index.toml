@@ -59,7 +59,7 @@ hash = "49fd9df93d225e5d22997a24327d5ca916bb213c2da38f621e470c9dbc6b1cae"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server.toml"
-hash = "d9ae3ac1888b4b5f726fbd49dc4beae68779ff80f90cbc455cc4410e2c2937c5"
+hash = "9b696cda87ca18b88df52ae9ed41ff99b46a01c40a3f081e4182841eba2a7ec6"
 
 [[files]]
 file = "defaultconfigs/refinedstorage-server.toml"
