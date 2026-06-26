@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Advancedperipherals/world.toml"
+hash = "c35054cf2c10f51cf4903ea60ace11a873336eb601146b317587e585843150d8"
+
+[[files]]
 file = "config/EasyAuth/extended.conf"
 hash = "4c6645f176446947b3cadf37d4f4dfc3d555f40d6ecf036e28dc357af7300172"
 
