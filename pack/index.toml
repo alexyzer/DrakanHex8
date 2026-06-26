@@ -45,6 +45,11 @@ hash = "a507b132e2e7cba8eb4d4f0591b8216054bf1f3009e0d6799cdb812dc3e5cc33"
 preserve = true
 
 [[files]]
+file = "config/sounds/event.json"
+hash = "690ecaab33f6d9d5599ffdf340b92980eaa92ea1231edd1b6d9e81553b9a3ee3"
+preserve = true
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "79fed6eaf7f25c8215fab9d74edfbc46d6731c2b1199f07c8dc7ed0d57c94e4a"
 metafile = true
