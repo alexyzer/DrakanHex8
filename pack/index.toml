@@ -617,6 +617,10 @@ file = "moonlight-global-datapacks/DrakanHex/data/hexal/loot_tables/blocks/relay
 hash = "c5dfcf720fc97b291da290d3b509102a2c12cb17c11b178c4f1dbdac5b6f8f63"
 
 [[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/advancements/grant_patchi_book.json"
+hash = "84a2d42f34296d21f8da0deb63bf7d786094994835805e0f1064664dcfbc3fea"
+
+[[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/loot_modifiers/scroll/places/chests/file_loot_table.json"
 hash = "bb762486e5ff7ca6009bd9ed16bbefc63425d2d8c3a0d1111a6f2aaabe3acb5e"
 
