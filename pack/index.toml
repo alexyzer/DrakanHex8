@@ -50,6 +50,26 @@ hash = "690ecaab33f6d9d5599ffdf340b92980eaa92ea1231edd1b6d9e81553b9a3ee3"
 preserve = true
 
 [[files]]
+file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
+hash = "fa1a211f5d9b320ec68a01cfd205b8f5cf48ed95cf1216bfe6b9ef7a241690af"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
+hash = "49fd9df93d225e5d22997a24327d5ca916bb213c2da38f621e470c9dbc6b1cae"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server.toml"
+hash = "e83aacd30b6015a308e5b8ebfc8d04a0bbbb6e838244e246e1983abfea289019"
+
+[[files]]
+file = "defaultconfigs/refinedstorage-server.toml"
+hash = "2154abeb8ae5a4247d9cd1f4218acd6ba57b91afe7979aacff60634a19369dad"
+
+[[files]]
+file = "defaultconfigs/sophisticatedbackpacks-server.toml"
+hash = "529eb4c71f7b0df4a5b14f59fa7d280b88ff94185c1016608b916544e3814f4e"
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "79fed6eaf7f25c8215fab9d74edfbc46d6731c2b1199f07c8dc7ed0d57c94e4a"
 metafile = true

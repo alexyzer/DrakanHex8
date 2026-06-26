@@ -1,0 +1,132 @@
+[upgrades]
+rangeUpgradeUsage = 0
+speedUpgradeUsage = 0
+craftingUpgradeUsage = 0
+stackUpgradeUsage = 0
+silkTouchUpgradeUsage = 0
+fortune1UpgradeUsage = 0
+fortune2UpgradeUsage = 0
+fortune3UpgradeUsage = 0
+regulatorUpgradeUsage = 0
+
+[controller]
+useEnergy = false
+capacity = 32000
+baseUsage = 0
+maxTransfer = 2147483647
+
+[cable]
+usage = 0
+
+[grid]
+gridUsage = 0
+craftingGridUsage = 0
+patternGridUsage = 0
+fluidGridUsage = 0
+
+[diskDrive]
+usage = 0
+diskUsage = 0
+
+[storageBlock]
+oneKUsage = 0
+fourKUsage = 0
+sixteenKUsage = 0
+sixtyFourKUsage = 0
+creativeUsage = 0
+
+[fluidStorageBlock]
+sixtyFourKUsage = 0
+twoHundredFiftySixKUsage = 0
+thousandTwentyFourKUsage = 0
+fourThousandNinetySixKUsage = 0
+creativeUsage = 0
+
+[externalStorage]
+usage = 0
+
+[importer]
+usage = 0
+
+[exporter]
+usage = 0
+
+[networkReceiver]
+usage = 0
+
+[networkTransmitter]
+usage = 0
+
+[relay]
+usage = 0
+
+[detector]
+usage = 0
+
+[securityManager]
+usage = 0
+usagePerCard = 0
+
+[interface]
+usage = 0
+
+[fluidInterface]
+usage = 0
+
+[wirelessTransmitter]
+usage = 0
+baseRange = 16
+rangePerUpgrade = 8
+
+[storageMonitor]
+usage = 0
+
+[wirelessGrid]
+useEnergy = false
+capacity = 3200
+openUsage = 0
+extractUsage = 0
+insertUsage = 0
+
+[wirelessFluidGrid]
+useEnergy = false
+capacity = 3200
+openUsage = 0
+extractUsage = 0
+insertUsage = 0
+
+[constructor]
+usage = 0
+
+[destructor]
+usage = 0
+
+[diskManipulator]
+usage = 0
+
+[portableGrid]
+useEnergy = false
+capacity = 3200
+openUsage = 0
+extractUsage = 0
+insertUsage = 0
+
+[crafter]
+usage = 0
+patternUsage = 0
+
+[crafterManager]
+usage = 0
+
+[craftingMonitor]
+usage = 0
+
+[wirelessCraftingMonitor]
+useEnergy = false
+capacity = 3200
+openUsage = 0
+cancelUsage = 0
+cancelAllUsage = 0
+
+[autocrafting]
+calculationTimeoutMs = 5000

@@ -1,0 +1,78 @@
+[serverConfig]
+defaultLanguage = "ru_ru"
+autosaveInterval = 10
+playerSubConfigLimit = 64
+permissionSystem = "prometheus"
+primaryPartySystem = "argonauts_guilds"
+maxPlayerGroups = 16
+playerGroupSpace = 256
+maxPlayerGroupsPermission = "xaero.pac_max_player_groups"
+playerGroupSpacePermission = "xaero.pac_player_group_space"
+playerConfigurablePlayerConfigOptions = ["claims.protection.exceptions.blocksByExplosions", "claims.protection.exceptions.playersByPlayers"]
+opConfigurablePlayerConfigOptions = []
+
+[serverConfig.parties]
+enabled = true
+maxPartyMembers = 64
+maxPartyAllies = 64
+maxPartyInvites = 16
+partyExpirationTime = 720
+partyExpirationCheckInterval = 360
+
+[serverConfig.claims]
+enabled = true
+partyOwnedClaims = false
+claimBonusPerPartyMember = 100
+forceloadBonusPerPartyMember = 2
+claimBonusForPartyOwner = 0
+forceloadBonusForPartyOwner = 0
+playerClaimsExpirationTime = 8760
+playerClaimsExpirationCheckInterval = 360
+playerClaimsConvertExpiredClaims = true
+maxPlayerClaims = 500
+maxPlayerClaimForceloads = 10
+maxPlayerClaimsPermission = "xaero.pac_max_claims"
+maxPlayerClaimForceloadsPermission = "xaero.pac_max_forceloads"
+serverClaimPermission = "xaero.pac_server_claims"
+adminModePermission = "xaero.pac_admin_mode"
+maxClaimDistance = 5
+claimableDimensionsListType = "ALL_BUT"
+claimableDimensionsList = []
+allowExistingClaimsInUnclaimableDimensions = true
+allowExistingForceloadsInUnclaimableDimensions = false
+claimsSynchronization = "ALL"
+claimWelcomeMessages = true
+
+[serverConfig.claims.protection]
+friendlyChunkProtectedEntityListType = "ALL_BUT"
+friendlyChunkProtectedEntityList = ["minecraft:boat"]
+hostileChunkProtectedEntityListType = "ONLY"
+hostileChunkProtectedEntityList = []
+blockProtectionExceptionList = []
+entityProtectionExceptionList = []
+entityClaimBarrierList = []
+forcedBlockProtectionExceptionList = ["minecraft:crafting_table"]
+blockProtectionOptionalExceptionGroups = ["Controls{minecraft:lever, #minecraft:buttons}", "Doors{#minecraft:doors, #minecraft:fence_gates, #forge:fence_gates, #minecraft:trapdoors}", "Chests{minecraft:chest, minecraft:trapped_chest, #forge:chests/wooden}", "Barrels{minecraft:barrel, #forge:barrels}", "Ender_Chests{minecraft:ender_chest, #forge:chests/ender}", "Shulker_Boxes{#minecraft:shulker_boxes}", "Furnaces{minecraft:furnace, minecraft:blast_furnace, minecraft:smoker}", "Hoppers{minecraft:hopper}", "Dispenser-like{minecraft:dispenser, minecraft:dropper}", "Anvils{#minecraft:anvil}", "Stonecutters{minecraft:stonecutter}", "Grindstones{minecraft:grindstone}", "Cartography_Tables{minecraft:cartography_table}", "Lecterns{minecraft:lectern}", "Smithing_Tables{minecraft:smithing_table}", "Looms{minecraft:loom}", "Jukeboxes{minecraft:jukebox}", "Beds{#minecraft:beds}", "Beacons{minecraft:beacon}", "Enchanting_Tables{minecraft:enchanting_table}", "break$Crops{#minecraft:crops}"]
+forcedEntityProtectionExceptionList = ["minecraft:minecart"]
+entityProtectionOptionalExceptionGroups = ["Traders{minecraft:villager, minecraft:wandering_trader}", "hand$Item_Frames{minecraft:item_frame}", "break$Livestock{minecraft:cow, minecraft:mooshroom, minecraft:sheep, minecraft:chicken, minecraft:pig, minecraft:rabbit, minecraft:goat}", "Armor_Stands{minecraft:armor_stand}"]
+forcedEntityClaimBarrierList = ["minecraft:falling_block", "supplementaries:slingshot_projectile"]
+entityClaimBarrierOptionalGroups = ["Players{minecraft:player}", "Ender_Pearls{minecraft:ender_pearl}"]
+entitiesAllowedToGrief = ["minecraft:sheep", "interact$minecraft:potion", "interact$minecraft:trident", "interact$minecraft:(*_|)arrow", "interact$minecraft:ender_pearl", "interact$minecraft:egg"]
+entitiesAllowedToGriefEntities = ["interact$minecraft:potion", "interact$minecraft:trident", "interact$minecraft:(*_|)arrow", "interact$minecraft:ender_pearl", "interact$minecraft:egg"]
+entitiesAllowedToGriefDroppedItems = []
+nonBlockGriefingMobs = []
+entityGriefingMobs = []
+droppedItemGriefingMobs = []
+blockAccessEntityGroups = ["Villagers{minecraft:villager}"]
+entityAccessEntityGroups = ["Zombies{minecraft:zombie, minecraft:zombie_villager, minecraft:husk, minecraft:drowned}"]
+droppedItemAccessEntityGroups = ["Villagers{minecraft:villager}", "Piglins{minecraft:piglin}", "Foxes{minecraft:fox}"]
+staticFakePlayers = ["[IntegratedTunnels]"]
+staticFakePlayerClassExceptions = ["dan200.computercraft.shared.turtle.core.TurtlePlayer"]
+additionalBannedItemsList = ["supplementaries:slingshot"]
+itemUseProtectionExceptionList = ["minecraft:firework_rocket"]
+itemUseProtectionOptionalExceptionGroups = ["Books{minecraft:written_book, minecraft:writable_book}"]
+completelyDisabledItemInteractions = []
+completelyDisabledBlockInteractions = []
+completelyDisabledEntityInteractions = []
+completelyDisableFrostWalking = false
+reducedBoatEntityCollisions = true
