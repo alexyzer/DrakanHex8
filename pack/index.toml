@@ -728,7 +728,7 @@ hash = "b3e2f648b7d37363584063a45477a64df27f7252c6b2d034c4648d05c9894263"
 
 [[files]]
 file = "options.txt"
-hash = "6e8eb4ce69d39f06dfc26a73755ff1dba312d5ee721492134c47532cb1f665a8"
+hash = "cbafc6afc5e43d99f0c141c5deb06d2e60b89d299672de603d778f9b70bd17d1"
 preserve = true
 
 [[files]]
