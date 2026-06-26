@@ -1,5 +1,5 @@
 [serverConfig]
-defaultLanguage = "ru_ru"
+defaultLanguage = "en_us"
 autosaveInterval = 10
 playerSubConfigLimit = 64
 permissionSystem = "prometheus"
