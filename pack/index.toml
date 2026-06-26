@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/places.pw.toml"
-hash = "549afce6af1be7524e5d3e31e05eeb296e48f94b0198243155ddddfa732a3f1e"
+hash = "26ab7729d0c872d06396d74521049f2f4415c19ae021dde96b7c09e3e3c01ad6"
 metafile = true
 
 [[files]]
