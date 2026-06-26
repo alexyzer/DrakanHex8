@@ -1,0 +1,511 @@
+[wings]
+flightHungerTicks = 50
+levitationAfterEffect = 3
+unlimitedFlightAcceleration = false
+stableHover = false
+flightSpinCooldown = 5
+alternateFlight = false
+foldWingsOnLand = false
+lethalFallDamage = false
+enableFlightFallDamage = true
+flyingUsesHunger = true
+flightHungerThreshold = 6
+allowFlyingWhenTotallyHungry = false
+enderDragonGrantsSpin = true
+startWithLevitation = true
+maxFlightSpeed = 0.3
+
+[magic]
+baseBreathRange = 3
+passiveScalingCost = 6.0
+initialPassiveCost = 4
+noEXPRequirements = false
+seaDragonAbilities = true
+forestDragonAbilities = true
+caveDragonAbilities = true
+dragonAbilities = true
+
+[magic.abilities]
+saveAllAbilities = false
+
+[magic.abilities.sea_dragon]
+
+[magic.abilities.sea_dragon.passives]
+water = true
+spectralImpactProcChance = 15
+spectralImpact = true
+seaMagic = true
+seaAthletics = true
+
+[magic.abilities.sea_dragon.actives]
+
+[magic.abilities.sea_dragon.actives.storm_breath]
+chargedBlacklist = ["minecraft:armor_stand", "minecraft:cat", "minecraft:cart", "minecraft:guardian", "minecraft:elder_guardian", "minecraft:enderman", "upgrade_aquatic:thrasher", "upgrade_aquatic:great_thrasher"]
+chargedSpreadBlacklist = ["minecraft:armor_stand", "minecraft:cat", "minecraft:cart", "minecraft:guardian", "minecraft:elder_guardian", "minecraft:enderman", "upgrade_aquatic:thrasher", "upgrade_aquatic:great_thrasher"]
+chargedEffectDamageMultiplier = 1.0
+chargedChainRange = 4
+chargedEffectMaxChain = 5
+chargedEffectChainCount = 2
+stormBreathChainCount = 2
+stormBreathBlockBreaks = ["minecraft:impermeable", "minecraft:flowers", "minecraft:replaceable_plants"]
+stormBreathManaTicks = 2.0
+stormBreathOvertimeMana = 1
+stormBreathCasttime = 1.0
+stormBreathCooldown = 10.0
+stormBreathInitialMana = 2
+stormBreathDamage = 1.0
+stormBreath = true
+
+[magic.abilities.sea_dragon.actives.sea_vision]
+seaVisionManaCost = 1
+seaEyesCasttime = 1.0
+seaVisionCooldown = 60.0
+seaVisionDuration = 100.0
+seaVision = true
+
+[magic.abilities.sea_dragon.actives.revealing_the_soul]
+revealingTheSoulMultiplier = 1.0
+revealingTheSoulMaxEXP = 20
+revealingTheSoulManaCost = 1
+revealingTheSoulCasttime = 1.0
+revealingTheSoulCooldown = 30.0
+revealingTheSoulDuration = 200.0
+revealingTheSoul = true
+
+[magic.abilities.sea_dragon.actives.ball_lightning]
+ballLightningManaCost = 1
+ballLightningDamage = 4.0
+ballLightningCasttime = 2.0
+ballLightningCooldown = 20.0
+ballLightning = true
+
+[magic.abilities.forest_dragon]
+
+[magic.abilities.forest_dragon.passives]
+lightInDarkness = true
+forestMagic = true
+forestAthletics = true
+cliffHanger = true
+
+[magic.abilities.forest_dragon.actives]
+
+[magic.abilities.forest_dragon.actives.spike]
+spikeManaCost = 1
+spikeDamage = 2.0
+spikeCooldown = 3.0
+spikeMultishot = true
+spikeSpread = 1.0
+spike = true
+
+[magic.abilities.forest_dragon.actives.inspiration]
+inspirationManaCost = 1
+inspirationDuration = 200.0
+inspirationCasttime = 1.0
+inspirationCooldown = 60.0
+inspiration = true
+
+[magic.abilities.forest_dragon.actives.hunter]
+hunterManaCost = 1
+hunterDamageBonus = 1.0
+hunterCasttime = 3.0
+hunterCooldown = 30.0
+hunterDuration = 30.0
+hunter = true
+
+[magic.abilities.forest_dragon.actives.forest_breath]
+dirtTransformationBlocks = ["minecraft:moss_block:3", "minecraft:podzol:7", "minecraft:mycelium:7", "minecraft:grass_block:25"]
+allowDirtTransformation = true
+forestBreathGrowBlacklist = ["minecraft:grass", "minecraft:grass_block"]
+forestBreathBlockBreaks = ["minecraft:banners"]
+forestBreathManaTicks = 2.0
+forestBreathOvertimeMana = 1
+forestBreathInitialMana = 2
+forestBreathCasttime = 1.0
+forestBreathCooldown = 5.0
+forestBreathDamage = 2.0
+forestBreath = true
+
+[magic.abilities.cave_dragon]
+
+[magic.abilities.cave_dragon.passives]
+contrastShower = true
+caveMagic = true
+caveAthletics = true
+burnProcChance = 15
+burn = true
+
+[magic.abilities.cave_dragon.actives]
+
+[magic.abilities.cave_dragon.actives.tough_skin]
+toughSkinArmorValue = 3.0
+toughSkinManaCost = 1
+toughSkinCasttime = 1.0
+toughSkinCooldown = 30.0
+toughSkinDuration = 200.0
+toughSkin = true
+
+[magic.abilities.cave_dragon.actives.fire_breath]
+fireBreathCasttime = 1.0
+fireBreathCooldown = 5.0
+fireBreathBlockBreaks = ["minecraft:impermeable", "minecraft:crops", "minecraft:flowers", "minecraft:replaceable_plants", "minecraft:cobweb"]
+fireBreathSpreadsFire = true
+fireBreathManaTicks = 2.0
+fireBreathOvertimeMana = 1
+fireBreathInitialMana = 2
+fireBreathDamage = 3.0
+fireBreath = true
+
+[magic.abilities.cave_dragon.actives.lava_vision]
+lavaVisionManaCost = 1
+lavaVisionCasttime = 1.0
+lavaVisionCooldown = 30.0
+lavaVisionDuration = 100.0
+lavaVision = true
+
+[magic.abilities.cave_dragon.actives.fireball]
+fireballManaCost = 1
+fireballDamage = 5.0
+fireballCasttime = 2.0
+fireballCooldown = 7.0
+fireball = true
+
+[magic.mana]
+normalManaRegen = 10
+favorableManaRegen = 1
+consumeEXPAsMana = true
+
+[magic.mana.cave_dragon_mana]
+caveDragonManaBlocks = ["dragonsurvival:cave_source_of_magic", "minecraft:fire", "minecraft:campfires", "minecraft:lava", "minecraft:smoker", "minecraft:furnace", "minecraft:magma_block", "minecraft:blast_furnace", "netherdepthsupgrade:wet_lava_sponge", "regions_unexplored:brimwood_log_magma", "infernalexp:magmatic_chiseled_basalt_bricks", "infernalexp:basaltic_magma", "regions_unexplored:brimwood_log_magma", "naturearchitect:magma_inactive", "naturearchitect:magma_cracks", "netherdepthsupgrade:lava_sponge"]
+
+[magic.mana.forest_dragon_mana]
+forestDragonManaBlocks = ["dragonsurvival:forest_source_of_magic", "minecraft:grass_block", "minecraft:grass_block", "minecraft:small_flowers", "minecraft:flowers", "minecraft:tall_flowers", "minecraft:lily_pad", "minecraft:red_mushroom", "minecraft:brown_mushroom", "minecraft:sweet_berry_bush", "minecraft:oak_leaves", "naturearchitect:grass_cover_stairs", "naturearchitect:grass_cover_slab", "farmersdelight:brown_mushroom_colony", "farmersdelight:red_mushroom_colony", "gothic:black_mushroom", "gothic:tall_mushrooms", "gothic:cave_mushrooms", "naturearchitect:grass_carpet", "regions_unexplored:mycotoxic_mushrooms", "naturearchitect:moss_cover_3", "naturearchitect:moss_cover_2", "naturearchitect:moss_cover_1", "naturearchitect:mycelium_block_2", "naturearchitect:mycelium_cover_3", "naturearchitect:mycelium_cover_1", "naturearchitect:mycelium_cover_2", "naturearchitect:mycelium_block_1", "naturearchitect:moss_plant_1", "naturearchitect:moss_plant_2", "naturearchitect:moss_plant_3", "naturearchitect:moss_patch", "naturearchitect:moss_patch_dense", "regions_unexplored:spanish_moss", "minecraft:mycelium", "minecraft:moss_block", "minecraft:moss_carpet", "regions_unexplored:alpha_grass_block", "regions_unexplored:chalk_grass_block", "regions_unexplored:peat_grass_block", "regions_unexplored:silt_grass_block", "regions_unexplored:argillite_grass_block", "regions_unexplored:stone_grass_block", "regions_unexplored:deepslate_grass_block", "immersive_weathering:rooted_grass_block", "naturearchitect:grass_block", "naturearchitect:grass_cover", "naturearchitect:crimson_92", "naturearchitect:grass_1", "naturearchitect:grass_2", "naturearchitect:grass_3", "naturearchitect:grass_4", "naturearchitect:grass_windy", "naturearchitect:grass_stalk", "naturearchitect:grass_fern", "naturearchitect:grass_sapling", "phantasm:vivid_nihilium_grass", "vinery:grass_slab", "naturearchitect:grass_liana", "naturearchitect:grass_ivy", "naturearchitect:grass_bean_stalk"]
+
+[magic.mana.sea_dragon_mana]
+seaDragonManaBlocks = ["dragonsurvival:sea_source_of_magic", "minecraft:ice", "minecraft:snow", "minecraft:snow_block", "minecraft:powder_snow", "minecraft:water", "minecraft:wet_sponge", "minecraft:cauldron", "naturearchitect:snow_block_0", "naturearchitect:snow_block_2", "naturearchitect:snow_cover_1", "naturearchitect:snow_cover_2", "naturearchitect:snow_cover_3", "naturearchitect:snow_block_2", "immersive_weathering:snowy_stone_brick_wall", "immersive_weathering:snowy_stone_brick_stairs", "immersive_weathering:snowy_chiseled_stone_bricks", "immersive_weathering:snowy_stone_bricks", "immersive_weathering:snowy_cobblestone_wall", "immersive_weathering:snowy_cobblestone_slab", "immersive_weathering:snowy_cobblestone_stairs", "immersive_weathering:snowy_cobblestone", "immersive_weathering:snowy_stone_wall", "immersive_weathering:snowy_stone_slab", "immersive_weathering:snowy_stone_stairs", "immersive_weathering:snowy_stone", "immersive_weathering:snow_brick_wall", "immersive_weathering:snow_brick_slab", "immersive_weathering:snow_brick_stairs", "immersive_weathering:snow_bricks", "frozenup:compacted_snow_foundation", "frozenup:compacted_snow_brick_vertical_slab", "frozenup:compacted_snow_brick_slab", "frozenup:compacted_snow_brick_stairs", "frozenup:compacted_snow_bricks", "frozenup:compacted_snow_brick_stairs"]
+
+[dragon_beacons]
+fireBeaconEffects = ["dragonsurvival:fire", "dragonsurvival:strong_leather"]
+magicBeaconEffects = ["dragonsurvival:magic", "minecraft:haste"]
+peaceBeaconEffects = ["dragonsurvival:peace", "dragonsurvival:animal_peace"]
+temporaryEffect = 10
+constantEffect = 20
+
+[dragon_hunters]
+princessAndHuntersUpperSpawnBound = 80
+princessAndHuntersLowerSpawnBound = 32
+preserveRoyalChaseAfterDeath = false
+royalChaseStatusGivers = []
+villagerKillxp = 0
+allowPrinceAndPrincessSpawning = false
+allowHoundSpawning = false
+allowHunterSpawning = false
+allowSquireSpawning = false
+allowKnightSpawning = false
+hunterGroupSpawnDelay = 20
+royalDisappearInMinutes = 15
+princessSpawnDelay = 240
+hunterDespawnDelay = 20
+
+[dragon_hunters.prince]
+princeArmor = 6.0
+princeSpeed = 0.3
+princeHealth = 40.0
+princeDamage = 1.0
+
+[dragon_hunters.squire]
+squireArmor = 2.0
+squireSpeed = 0.35
+squireDamage = 6.0
+squireHealth = 24.0
+
+[dragon_hunters.hunter]
+hunterTrappedDebuffDuration = 5.0
+hunterBolasFrequency = 10.0
+hunterHasBolas = true
+hunterArmor = 0.0
+hunterSpeed = 0.35
+hunterDamage = 5.0
+hunterHealth = 24.0
+
+[dragon_hunters.hound]
+houndDoesSlowdown = true
+houndSpeed = 0.45
+houndDamage = 2.0
+houndHealth = 10.0
+
+[dragon_hunters.knight]
+knightShieldChance = 0.1
+knightSpeed = 0.3
+knightArmor = 10.0
+knightDamage = 12.0
+knightHealth = 40.0
+
+[general]
+elytraForDragon = false
+endVoidTeleport = true
+disableDragonSuffocation = true
+startWithDragonChoice = true
+canMoveWhileCasting = false
+canMoveInEmote = true
+syncClawRender = true
+keepClawItems = true
+altarCraftable = true
+altarUsageCooldown = 0
+serverSyncTime = 600
+
+[food]
+keepEffects = ["gothic:elixir_of_speed", "gothic:elixir_of_health", "gothic:elixir_of_mental_cleansing"]
+disable_dragon_food_handling = true
+requireDragonFood = false
+
+[food.cave_dragon]
+caveDragon = ["minecraft:coals:1:1", "minecraft:charcoal:1:2", "dragonsurvival:charged_coal:6:1", "dragonsurvival:charred_meat:8:10", "dragonsurvival:cave_dragon_treat:4:8", "dragonsurvival:charred_seafood:7:11", "dragonsurvival:charred_vegetable:8:9", "dragonsurvival:charred_mushroom:9:9", "dragonsurvival:charged_soup:15:15", "dragonsurvival:hot_dragon_rod:4:15", "dragonsurvival:explosive_copper:6:4", "dragonsurvival:double_quartz:8:6", "dragonsurvival:quartz_explosive_copper:12:18", "netherdepthsupgrade:blazefish:6:7", "netherdepthsupgrade:cooked_magmacubefish_slice:2:2", "netherdepthsupgrade:blazefish_slice:2:2", "infernalexp:molten_gold_cluster:2:6", "netherdepthsupgrade:magmacubefish:6:7", "desolation:cinder_fruit:6:7", "desolation:powered_cinder_fruit:8:12", "desolation:activatedcharcoal:2:2", "desolation:infused_powder:10:10", "desolation:primed_ash:7:8", "undergarden:ditchbulb:5:6", "xreliquary:molten_core:1:1", "silents_mechanisms:coal_generator_fuels:1:1", "mekanism:dust_charcoal:1:1", "mekanism:dust_coal:1:1", "rats:nether_cheese", "potionsmaster:charcoal_powder:1:1", "potionsmaster:coal_powder:1:1", "potionsmaster:activated_charcoal:2:2", "thermal:coal_coke:1:1", "infernalexp:glowcoal:2:3", "resourcefulbees:coal_honeycomb:5:5", "resourcefulbees:netherite_honeycomb:5:5", "lazierae2:coal_dust:1:1", "silents_mechanisms:coal_dust:1:1", "potionsmaster:calcinatedcoal_powder:1:1", "thermal:basalz_rod:2:4", "thermal:basalz_powder:1:2", "druidcraft:fiery_glass:2:2", "create:blaze_cake:10:10", "create:creative_blaze_cake:50:50", "upgradednetherite:fire_essence:12:4", "netherdepthsupgrade:fortress_grouper:3:1", "nethersdelight:nether_skewer:6:8"]
+
+[food.cave_dragon.other]
+chargedSoupBuffDuration = 300
+hurtfulToCaveDragon = ["minecraft:potion:2", "minecraft:water_bottle:2", "minecraft:milk_bucket:2"]
+
+[food.forest_dragon]
+forestDragon = ["forge:raw_meats:6:4", "minecraft:glow_berries:2:1", "minecraft:sweet_berries:1:1", "minecraft:rotten_flesh:2:4", "minecraft:spider_eye:6:8", "minecraft:rabbit:7:8", "minecraft:poisonous_potato:7:8", "minecraft:chorus_fruit:9:8", "minecraft:brown_mushroom:2:1", "minecraft:red_mushroom:2:3", "minecraft:honey_bottle:6:1", "minecraft:warped_fungus:3:3", "minecraft:crimson_fungus:3:3", "dragonsurvival:forest_dragon_treat:4:8", "dragonsurvival:meat_chorus_mix:12:8", "additionaldragons:cursed_marrow", "nocubes_better_frogs:raw_frog_leg:4:4", "infernalexp:raw_hogchop:6:6", "phantasm:chorus_fruit_salad:10:10", "dragonsurvival:meat_wild_berries:12:10", "dragonsurvival:smelly_meat_porridge:6:10", "dragonsurvival:diamond_chorus:15:12", "dragonsurvival:luminous_ointment:5:3", "dragonsurvival:sweet_sour_rabbit:10:6", "chinchillas:chinchilla_meat:6:8", "aquaculture:turtle_soup:8:8", "netherdepthsupgrade:wither_bonefish:4:6", "netherdepthsupgrade:bonefish:4:6", "infernalexp:raw_hogchop:8:8", "aoa3:fiery_chops:6:7", "aoa3:raw_chimera_chop:6:7", "aoa3:raw_furlion_chop:6:7", "aoa3:raw_halycon_beef:7:8", "aoa3:raw_charger_shank:6:7", "aoa3:trilliad_leaves:8:11", "pamhc2foodextended:rawtofabbititem", "pamhc2foodextended:rawtofickenitem", "quark:golden_frog_leg:12:14", "pamhc2foodextended:rawtofuttonitem", "alexsmobs:kangaroo_meat:5:6", "alexsmobs:moose_ribs:6:8", "simplefarming:raw_horse_meat:5:6", "simplefarming:raw_bacon:3:3", "simplefarming:raw_chicken_wings:2:3", "simplefarming:raw_sausage:3:4", "xenoclustwo:raw_tortice:7:8", "unnamedanimalmod:musk_ox_shank:7:8", "unnamedanimalmod:frog_legs:5:6", "unnamedanimalmod:mangrove_fruit:4:7", "betteranimalsplus:venisonraw:7:6", "born_in_chaos_v1:corpse_maggot:1:1", "born_in_chaos_v1:monster_flesh:1:1", "betteranimalsplus:pheasantraw:7:5", "betteranimalsplus:turkey_leg_raw:4:5", "infernalexp:raw_hogchop:6:7", "infernalexp:cured_jerky:10:7", "rats:raw_rat:4:5", "aquaculture:frog:4:5", "aquaculture:frog_legs_raw:4:4", "aquaculture:box_turtle:4:5", "aquaculture:arrau_turtle:4:5", "aquaculture:starshell_turtle:4:5", "undergarden:raw_gloomper_leg:4:5", "undergarden:raw_dweller_meat:6:7", "farmersdelight:chicken_cuts:3:3", "farmersdelight:bacon:3:3", "farmersdelight:ham:9:10", "farmersdelight:minced_beef:5:3", "farmersdelight:mutton_chops:5:3", "abnormals_delight:duck_fillet:2:3", "abnormals_delight:venison_shanks:7:3", "autumnity:foul_berries:2:4", "autumnity:turkey:7:8", "autumnity:turkey_piece:2:4", "autumnity:foul_soup:12:8", "endergetic:bolloom_fruit:3:4", "quark:frog_leg:4:5", "nethers_delight:hoglin_loin:8:6", "nethers_delight:raw_stuffed_hoglin:18:10", "xreliquary:zombie_heart:4:7", "xreliquary:bat_wing:2:2", "eidolon:zombie_heart:7:7", "forbidden_arcanus:bat_wing:5:2", "twilightforest:raw_venison:7:7", "twilightforest:raw_meef:9:5", "twilightforest:hydra_chop", "cyclic:chorus_flight", "cyclic:chorus_spectral", "cyclic:toxic_carrot:15:15", "artifacts:everlasting_beef", "resourcefulbees:rainbow_honey_bottle", "resourcefulbees:diamond_honeycomb:5:5", "byg:soul_shroom:9:5", "byg:death_cap:9:8", "minecolonies:chorus_bread", "wyrmroost:raw_lowtier_meat:3:2", "wyrmroost:raw_common_meat:5:3", "wyrmroost:raw_apex_meat:8:6", "wyrmroost:raw_behemoth_meat:11:12", "wyrmroost:desert_wyrm:4:3", "eanimod:rawchicken_darkbig:9:5", "eanimod:rawchicken_dark:5:4", "eanimod:rawchicken_darksmall:3:2", "eanimod:rawchicken_pale:5:3", "eanimod:rawchicken_palesmall:4:3", "eanimod:rawrabbit_small:4:4", "environmental:duck:4:3", "environmental:venison:7:7", "cnb:lizard_item_jungle:4:4", "cnb:lizard_item_mushroom:4:4", "cnb:lizard_item_jungle_2:4:4", "cnb:lizard_item_desert_2:4:4", "cnb:lizard_egg:5:2", "cnb:lizard_item_desert:4:4", "snowpig:frozen_porkchop:7:3", "snowpig:frozen_ham:5:7", "untamedwilds:spawn_snake:4:4", "untamedwilds:snake_green_mamba:4:4", "untamedwilds:snake_rattlesnake:4:4", "untamedwilds:snake_emerald:4:4", "untamedwilds:snake_carpet_python:4:4", "untamedwilds:snake_corn:4:4", "untamedwilds:snake_gray_kingsnake:4:4", "untamedwilds:snake_coral:4:4", "untamedwilds:snake_ball_python:4:4", "untamedwilds:snake_black_mamba:4:4", "untamedwilds:snake_western_rattlesnake:4:4", "untamedwilds:snake_taipan:4:4", "untamedwilds:snake_adder:4:4", "untamedwilds:snake_rice_paddy:4:4", "untamedwilds:snake_coral_blue:4:4", "untamedwilds:snake_cave_racer:4:4", "untamedwilds:snake_swamp_moccasin:4:4", "untamedwilds:softshell_turtle_pig_nose:4:4", "untamedwilds:softshell_turtle_flapshell:4:4", "untamedwilds:softshell_turtle_chinese:4:4", "untamedwilds:tortoise_asian_box:4:4", "untamedwilds:tortoise_gopher:4:4", "untamedwilds:tortoise_leopard:4:4", "untamedwilds:spawn_softshell_turtle:4:4", "untamedwilds:softshell_turtle_nile:4:4", "untamedwilds:softshell_turtle_spiny:4:4", "untamedwilds:tortoise_sulcata:4:4", "untamedwilds:tortoise_star:4:4", "untamedwilds:spawn_tortoise:4:4", "naturalist:venison:7:6", "leescreatures:raw_boarlin:6:6", "mysticalworld:venison:5:5", "toadterror:toad_chops:8:7", "prehistoricfauna:raw_large_thyreophoran_meat:7:6", "prehistoricfauna:raw_large_marginocephalian_meat:8:6", "prehistoricfauna:raw_small_ornithischian_meat:4:3", "prehistoricfauna:raw_large_sauropod_meat:11:9", "prehistoricfauna:raw_small_sauropod_meat:4:4", "prehistoricfauna:raw_large_theropod_meat:7:7", "prehistoricfauna:raw_small_theropod_meat:4:4", "prehistoricfauna:raw_small_archosauromorph_meat:3:3", "prehistoricfauna:raw_large_archosauromorph_meat:6:5", "prehistoricfauna:raw_small_reptile_meat:4:3", "prehistoricfauna:raw_large_synapsid_meat:5:6", "ends_delight:dragon_leg:15:15", "ends_delight:raw_dragon_meat:10:10", "ends_delight:raw_dragon_meat_cuts:5:2", "ends_delight:dragon_breath_and_chorus_soup:15:15", "ends_delight:ender_sauce:8:15", "ends_delight:raw_ender_mite_meat:1:1", "ends_delight:non_hatchable_dragon_egg:8:5", "ends_delight:shulker_meat:7:4", "unusualend:chorus_juice:2:2", "ends_delight:liquid_dragon_egg:3:3", "ends_delight:shulker_meat_slice:4:1", "unusualend:ender_firefly_egg:2:3", "unusualend:chorus_petal:1:1", "unusualend:chorus_pie:3:4", "unusualend:ender_stew:6:1", "unusualprehistory:kentro_eggs:3:3", "unusualprehistory:hwacha_eggs:3:3", "unusualprehistory:ulugh_eggs:3:3", "unusualprehistory:antarcto_eggs:3:3", "unusualprehistory:austro_eggs:3:3", "unusualprehistory:pachy_eggs:3:3", "unusualprehistory:raptor_eggs:3:3", "unusualprehistory:trike_eggs:4:4", "unusualprehistory:rex_eggs:6:3", "unusualprehistory:coty_eggs:3:3", "unusualprehistory:meaty_buffet:12:15", "unusualprehistory:majunga_eggs:3:3", "unusualprehistory:anuro_eggs:3:3", "unusualprehistory:raw_austro:6:3", "unusualprehistory:raw_coty:5:3", "nourished_nether:raw_hoglin:8:8", "gothic:meat:7:8", "gothic:bug_meat:2:2", "gothic:scavenger_egg:3:3", "gothic:snapperweed:1:1", "gothic:blue_elder:1:1", "unusualend:wandering_stew:1:1", "nethersdelight:raw_stuffed_hoglin:15:15", "nethersdelight:hoglin_ear:1:1", "nethersdelight:ground_strider:6:2", "nethersdelight:strider_slice:8:8", "nethersdelight:hoglin_ear:1:1", "nethersdelight:hoglin_loin:6:6", "nethersdelight:propelpearl:1:1", "orcz:squig_eye:6:6", "orcz:orceye:4:4", "goated:chevon:6:6", "rottencreatures:frozen_rotten_flesh:4:4", "regions_unexplored:tall_green_bioshroom:3:3", "regions_unexplored:green_bioshroom:3:3", "regions_unexplored:blue_bioshroom:3:3", "regions_unexplored:tall_blue_bioshroom:3:3", "regions_unexplored:tall_pink_bioshroom:3:3", "regions_unexplored:pink_bioshroom:3:3", "regions_unexplored:yellow_bioshroom:3:3", "regions_unexplored:tall_yellow_bioshroom:3:3", "quark:glow_shroom:3:3", "gothic:cave_mushrooms:3:3", "gothic:tall_mushrooms:3:3", "gothic:miners_food_wild:3:3", "gothic:black_mushroom:3:3", "phantasm:putac_shroom:3:3", "farmersdelight:red_mushroom_colony:10:3", "farmersdelight:brown_mushroom_colony:10:3", "gothic:miners_food:3:3", "gothic:black_mushroom_item:3:3", "gothic:blue_elder:3:3", "frozen_delight:truffle_slice:4:8", "frozenup:truffle:8:4", "frozen_delight:mushroom_mix:16:3", "nourished_nether:nether_fungus_stew:7:3", "nethersdelight:warped_fungus_colony:10:3", "nethersdelight:crimson_fungus_colony:10:3", "unusualend:chorus_fungus:3:3", "orcz:orcshroom:3:3", "orcz:blue_orcshroom:3:3", "waterstrainer:worm:1:1", "undergarden:veil_mushroom:1:1", "undergarden:indigo_mushroom:1:1", "undergarden:smogstem_sapling:1:1", "undergarden:blood_mushroom:1:1", "undergarden:ink_mushroom:1:1", "undergarden:blisterberry:1:1", "undergarden:rotten_blisterberry:1:1", "undergarden:ink_mushroom:1:1", "undergarden:bloody_stew:1:1", "undergarden:inky_stew:1:1", "undergarden:veiled_stew:1:1", "undergarden:indigo_stew:1:1", "butchersdelight:deadchiken:6:4", "butchersdelight:deadstrider:6:4", "butchersdelight:deadrabbitbrown:6:4", "butchersdelight:deadllama:6:4", "butchersdelight:deadhoglin:6:4", "butchersdelight:deadgoat:6:4", "butchersdelight:deadsheep:6:4", "butchersdelight:deadpig:6:4", "butchersdelight:dead_cow:6:4", "butchersdelightfoods:llama_loin:6:4", "butchersdelightfoods:llamma_ribs:6:4", "butchersdelightfoods:llama_leg:6:4", "butchersdelightfoods:goat_loin:6:4", "butchersdelightfoods:goatrack:6:4", "butchersdelightfoods:goat_shank:6:4", "butchersdelightfoods:porkribs:6:4", "butchersdelightfoods:porkloin:6:4", "butchersdelightfoods:ham:6:4", "butchersdelightfoods:sheeploin:6:4", "butchersdelightfoods:sheeprack:6:4", "butchersdelightfoods:sheepshank:6:4", "butchersdelightfoods:beeftenderloin:6:4"]
+
+[food.forest_dragon.other]
+hurtfulToForestDragon = []
+
+[food.sea_dragon]
+seaDragon = ["forge:raw_fishes:6:4", "minecraft:kelp:1:1", "minecraft:pufferfish:8:8", "dragonsurvival:sea_dragon_treat:4:8", "dragonsurvival:seasoned_fish:12:10", "dragonsurvival:golden_coral_pufferfish:12:14", "dragonsurvival:frozen_raw_fish:2:1", "dragonsurvival:golden_turtle_egg:15:12", "additionaldragons:slippery_sushi:10:8", "aoa3:raw_candlefish:9:9", "aoa3:raw_crimson_skipper:8:8", "aoa3:raw_fingerfish:4:4", "aoa3:raw_pearl_stripefish:5:4", "aoa3:raw_limefish:5:5", "aoa3:raw_sailback:6:5", "netherdepthsupgrade:soulsucker:6:7", "netherdepthsupgrade:obsidianfish:6:7", "netherdepthsupgrade:lava_pufferfish:8:7", "netherdepthsupgrade:searing_cod:6:7", "netherdepthsupgrade:glowdine:6:7", "netherdepthsupgrade:warped_kelp:2:2", "netherdepthsupgrade:lava_pufferfish_slice:2:2", "netherdepthsupgrade:glowdine_slice:2:2", "netherdepthsupgrade:soulsucker_slice:2:2", "netherdepthsupgrade:obsidianfish_slice:2:2", "netherdepthsupgrade:searing_cod_slice:2:2", "crittersandcompanions:clam:10:3", "aoa3:raw_golden_gullfish:10:2", "aoa3:raw_turquoise_stripefish:7:6", "aoa3:raw_violet_skipper:7:7", "aoa3:raw_rocketfish:4:10", "aoa3:raw_crimson_stripefish:8:7", "aoa3:raw_sapphire_strider:9:8", "aoa3:raw_dark_hatchetfish:9:9", "aoa3:raw_ironback:10:9", "aoa3:raw_rainbowfish:11:11", "aoa3:raw_razorfish:12:14", "alexsmobs:lobster_tail:4:5", "alexsmobs:blobfish:8:9", "oddwatermobs:raw_ghost_shark:8:8", "oddwatermobs:raw_isopod:4:2", "oddwatermobs:raw_mudskipper:6:7", "oddwatermobs:raw_coelacanth:9:10", "oddwatermobs:raw_anglerfish:6:6", "oddwatermobs:deep_sea_fish:4:2", "oddwatermobs:crab_leg:5:6", "simplefarming:raw_calamari:5:6", "unnamedanimalmod:elephantnose_fish:5:6", "unnamedanimalmod:flashlight_fish:5:6", "born_in_chaos_v1:sea_terror_eye:10:4", "born_in_chaos_v1:rotten_fish:4:2", "unnamedanimalmod:rocket_killifish:5:6", "unnamedanimalmod:leafy_seadragon:5:6", "unnamedanimalmod:elephantnose_fish:5:6", "betteranimalsplus:eel_meat_raw:5:6", "betteranimalsplus:calamari_raw:4:5", "betteranimalsplus:crab_meat_raw:4:4", "aquaculture:fish_fillet_raw:2:2", "aquaculture:goldfish:8:4", "aquaculture:algae:3:2", "betterendforge:end_fish_raw:6:7", "betterendforge:hydralux_petal:3:3", "betterendforge:charnia_green:2:2", "shroomed:raw_shroomfin:5:6", "undergarden:raw_gwibling:5:6", "bettas:betta_fish:4:5", "quark:crab_leg:4:4", "pamhc2foodextended:rawtofishitem", "fins:banded_redback_shrimp:6:1", "fins:night_light_squid:6:2", "fins:night_light_squid_tentacle:6:2", "fins:emerald_spindly_gem_crab:7:2", "fins:amber_spindly_gem_crab:7:2", "fins:rubby_spindly_gem_crab:7:2", "fins:sapphire_spindly_gem_crab:7:2", "fins:pearl_spindly_gem_crab:7:2", "fins:papa_wee:6:2", "fins:bugmeat:4:2", "fins:raw_golden_river_ray_wing:6:2", "fins:red_bull_crab_claw:4:4", "fins:white_bull_crab_claw:4:4", "fins:wherble_fin:1:1", "forbidden_arcanus:tentacle:5:2", "pneumaticcraft:raw_salmon_tempura:6:10", "rats:ratfish:4:2", "upgrade_aquatic:purple_pickerelweed:2:2", "upgrade_aquatic:blue_pickerelweed:2:2", "upgrade_aquatic:polar_kelp:2:2", "upgrade_aquatic:tongue_kelp:2:2", "upgrade_aquatic:thorny_kelp:2:2", "upgrade_aquatic:ochre_kelp:2:2", "upgrade_aquatic:lionfish:8:9", "aquaculture:sushi:6:5", "freshwarriors:fresh_soup:15:10", "freshwarriors:beluga_caviar:10:3", "freshwarriors:piranha:4:1", "freshwarriors:tilapia:4:1", "freshwarriors:stuffed_piranha:4:1", "freshwarriors:tigerfish:5:5", "freshwarriors:toe_biter_leg:3:3", "untamedwilds:egg_arowana:4:4", "untamedwilds:egg_trevally_jack:4:4", "untamedwilds:egg_trevally:4:4", "untamedwilds:egg_giant_salamander:6:4", "untamedwilds:egg_giant_salamander_hellbender:6:4", "untamedwilds:egg_giant_salamander_japanese:6:4", "untamedwilds:giant_clam:4:4", "untamedwilds:giant_clam_derasa:4:4", "untamedwilds:giant_clam_maxima:4:4", "untamedwilds:giant_clam_squamosa:4:4", "untamedwilds:egg_trevally_giant:6:4", "untamedwilds:egg_trevally:6:4", "untamedwilds:egg_trevally_bigeye:6:4", "untamedwilds:egg_sunfish:6:4", "untamedwilds:egg_sunfish_sunfish:6:4", "untamedwilds:egg_giant_clam_squamosa:6:4", "untamedwilds:egg_giant_clam_gigas:6:4", "untamedwilds:egg_giant_clam_derasa:6:4", "untamedwilds:egg_giant_clam:6:4", "untamedwilds:egg_football_fish:6:4", "untamedwilds:egg_arowana:6:4", "untamedwilds:egg_arowana_jardini:6:4", "untamedwilds:egg_arowana_green:6:4", "mysticalworld:raw_squid:6:5", "aquafina:fresh_soup:10:10", "aquafina:beluga_caviar:10:3", "aquafina:raw_piranha:4:1", "aquafina:raw_tilapia:4:1", "aquafina:stuffed_piranha:4:1", "aquafina:tigerfish:5:5", "aquafina:toe_biter_leg:3:3", "aquafina:raw_angelfish:4:1", "aquafina:raw_football_fish:4:1", "aquafina:raw_foxface_fish:4:1", "aquafina:raw_royal_gramma:4:1", "aquafina:raw_starfish:4:1", "aquafina:spider_crab_leg:4:1", "aquafina:raw_stingray_slice:4:1", "prehistoricfauna:raw_ceratodus:5:5", "prehistoricfauna:raw_cyclurus:4:4", "prehistoricfauna:raw_potamoceratodus:5:5", "prehistoricfauna:raw_myledaphus:4:4", "prehistoricfauna:raw_gar:4:4", "prehistoricfauna:raw_oyster:4:3", "prehistoric_delight:prehistoric_fillet:3:3", "seadwellers:rainbow_trout:10:10", "crittersandcompanions:koi_fish:5:5", "aquamirae:elodea:3:3", "croptopia:clam:3:3", "croptopia:calamari:2:3", "croptopia:anchovy:3:2", "croptopia:crab:6:8", "croptopia:glowing_calamari:4:5", "croptopia:oyster:2:4", "croptopia:roe:1:2", "croptopia:shrimp:2:2", "croptopia:tuna:6:4", "aquamirae:spinefish:4:4", "alexsmobs:flying_fish:6:4", "untamedwilds:egg_triggerfish:2:4", "untamedwilds:egg_catfish:2:4", "netherdepthsupgrade:eyeball:3:3", "netherdepthsupgrade:eyeball_fish:3:3", "oceansdelight:guardian:4:3", "oceansdelight:guardian_tail:1:3", "oceansdelight:cut_tentacles:3:1", "oceansdelight:tentacles:3:4", "oceansdelight:tentacle_on_a_stick:3:4", "oceansdelight:fugu_slice:5:4", "oceansdelight:elder_guardian_slice:8:6", "oceansdelight:elder_guardian_slab:15:15", "upgrade_aquatic:elder_eye:15:15", "unusualprehistory:golden_scau:15:15", "unusualprehistory:raw_scau:4:3", "unusualprehistory:raw_stetha:4:3", "unusualprehistory:stetha_eggs:4:3", "unusualprehistory:beelze_eggs:4:3", "unusualprehistory:scau_eggs:4:3", "unusualprehistory:ammon_eggs:4:3", "unusualprehistory:dunk_eggs:4:3", "netherdepthsupgrade:crimson_seagrass:2:2", "netherdepthsupgrade:crimson_kelp:2:2", "netherdepthsupgrade:warped_seagrass:2:2", "undergarden:glitterkelp:2:2", "enlightened_end:raw_stalker:10:4"]
+
+[food.sea_dragon.other]
+hurtfulToSeaDragon = []
+
+[drops]
+elderDragonHeartUseList = false
+weakDragonHeartUseList = false
+dragonHeartUseList = false
+elderDragonHeartWhiteList = false
+weakDragonHeartWhiteList = false
+dragonHeartWhiteList = false
+elderDragonHeartEntityList = []
+weakDragonHeartEntityList = []
+dragonHeartEntityList = []
+elderDragonHeartChance = 0.01
+weakDragonHeartChance = 0.01
+dragonHeartShardChance = 0.03
+
+[drops.ore]
+oresTag = "forge:ores"
+dragonOreBoneChance = 0.01
+humanOreBoneChance = 0.0
+dragonOreDustChance = 0.2
+humanOreDustChance = 0.1
+
+[penalties]
+dragons_are_scary = true
+blacklistedSlots = [0, 1, 2, 3, 4, 5, 6, 7, 8, 40, 45, 38]
+blacklistedItemsRegex = ["spartanweaponry:boomerang_.*", "spartanshields:shield_.*", "spartanweaponry:heavy_crossbow_.*", "spartanweaponry:longbow_.*"]
+blacklistedItems = ["minecraft:bow", "minecraft:crossbow", "minecraft:shield", "minecraft:trident", "quark:flamerang", "quark:pickarang", "mowziesmobs:wrought_axe", "nethers_exoticism:rambutan_shield", "aquaculture:neptunium_bow", "endermanoverhaul:corrupted_shield", "upgradednetherite:echo_upgraded_netherite_shield", "upgradednetherite:corrupt_upgraded_netherite_shield", "upgradednetherite:feather_upgraded_netherite_shield", "upgradednetherite:phantom_upgraded_netherite_shield", "upgradednetherite:poison_upgraded_netherite_shield", "upgradednetherite:wither_upgraded_netherite_shield", "upgradednetherite:water_upgraded_netherite_shield", "upgradednetherite:ender_upgraded_netherite_shield", "magistuarmory:bronze_ellipticalshield", "magistuarmory:wood_roundshield", "magistuarmory:stone_roundshield", "magistuarmory:iron_roundshield", "magistuarmory:gold_roundshield", "magistuarmory:diamond_roundshield", "magistuarmory:netherite_roundshield", "magistuarmory:copper_roundshield", "magistuarmory:steel_roundshield", "magistuarmory:silver_roundshield", "magistuarmory:tin_roundshield", "magistuarmory:bronze_roundshield", "magistuarmory:wood_kiteshield", "magistuarmory:stone_kiteshield", "magistuarmory:iron_kiteshield", "magistuarmory:gold_kiteshield", "magistuarmory:diamond_kiteshield", "magistuarmory:netherite_kiteshield", "magistuarmory:steel_kiteshield", "magistuarmory:copper_kiteshield", "magistuarmory:silver_kiteshield", "magistuarmory:tin_kiteshield", "magistuarmory:bronze_kiteshield", "unusualend:blob_shield", "upgradednetherite:netherite_shield", "upgradednetherite:gold_upgraded_netherite_shield", "upgradednetherite:fire_upgraded_netherite_shield", "magistuarmory:stone_ellipticalshield", "magistuarmory:iron_ellipticalshield", "magistuarmory:diamond_ellipticalshield", "magistuarmory:gold_ellipticalshield", "infernalexp:glowsilk_bow", "magistuarmory:tin_ellipticalshield", "upgradednetherite:gold_upgraded_netherite_bow", "upgradednetherite:fire_upgraded_netherite_bow", "upgradednetherite:ender_upgraded_netherite_bow", "magistuarmory:silver_ellipticalshield", "magistuarmory:steel_ellipticalshield", "magistuarmory:copper_ellipticalshield", "magistuarmory:netherite_ellipticalshield", "upgradednetherite:netherite_crossbow", "upgradednetherite:gold_upgraded_netherite_crossbow", "upgradednetherite:fire_upgraded_netherite_crossbow", "upgradednetherite:ender_upgraded_netherite_crossbow", "upgradednetherite:water_upgraded_netherite_crossbow", "upgradednetherite:wither_upgraded_netherite_crossbow", "upgradednetherite:poison_upgraded_netherite_crossbow", "upgradednetherite:phantom_upgraded_netherite_crossbow", "upgradednetherite:feather_upgraded_netherite_crossbow", "upgradednetherite:corrupt_upgraded_netherite_crossbow", "upgradednetherite:echo_upgraded_netherite_crossbow", "magistuarmory:wood_heatershield", "magistuarmory:stone_heatershield", "magistuarmory:iron_heatershield", "magistuarmory:gold_heatershield", "magistuarmory:diamond_heatershield", "magistuarmory:netherite_heatershield", "magistuarmory:copper_heatershield", "magistuarmory:steel_heatershield", "magistuarmory:silver_heatershield", "magistuarmory:tin_heatershield", "magistuarmory:bronze_heatershield", "magistuarmory:wood_ellipticalshield", "magistuarmory:silver_target", "magistuarmory:steel_target", "magistuarmory:copper_target", "magistuarmory:netherite_target", "magistuarmory:diamond_target", "magistuarmory:gold_target", "magistuarmory:iron_target", "magistuarmory:stone_target", "aquaculture:neptunium_bow", "magistuarmory:gold_pavese", "magistuarmory:iron_pavese", "magistuarmory:wood_pavese", "magistuarmory:tin_tartsche", "magistuarmory:silver_tartsche", "magistuarmory:steel_tartsche", "magistuarmory:copper_tartsche", "magistuarmory:diamond_tartsche", "magistuarmory:iron_tartsche", "magistuarmory:stone_tartsche", "magistuarmory:wood_tartsche", "magistuarmory:bronze_rondache", "magistuarmory:tin_rondache", "magistuarmory:netherite_rondache", "magistuarmory:diamond_rondache", "magistuarmory:gold_rondache", "magistuarmory:iron_rondache", "magistuarmory:wood_rondache", "magistuarmory:tin_buckler", "magistuarmory:steel_buckler", "magistuarmory:copper_buckler", "magistuarmory:netherite_buckler", "magistuarmory:diamond_buckler", "magistuarmory:gold_buckler", "magistuarmory:iron_buckler", "magistuarmory:stone_buckler", "magistuarmory:tin_target", "magistuarmory:diamond_pavese", "magistuarmory:netherite_pavese", "magistuarmory:copper_pavese", "magistuarmory:steel_pavese", "magistuarmory:tin_pavese", "endermanoverhaul:corrupted_shield", "upgradednetherite:wither_upgraded_netherite_bow", "upgradednetherite:water_upgraded_netherite_bow", "upgradednetherite:poison_upgraded_netherite_bow", "upgradednetherite:phantom_upgraded_netherite_bow", "upgradednetherite:feather_upgraded_netherite_bow", "upgradednetherite:corrupt_upgraded_netherite_bow", "upgradednetherite:echo_upgraded_netherite_bow", "cataclysm:ignitium_elytra_chestplate", "revised_phantoms:phantom_wings_chestplate", "deeperdarker:soul_elytra", "born_in_chaos_v1:staffof_magic_arrows", "magistuarmory:heavy_crossbow"]
+limitedRiding = true
+allowedVehicles = ["minecraft:player", "minecraft:boat", "littlelogistics:seater_barge", "minecraft:minecart", "create:seat", "create:contraption", "create:gantry_contraption", "create:stationary_contraption", "hexerei:broom", "botania:player_mover", "quark:quark_boat"]
+penalties = true
+
+[penalties.sea]
+seaHydrationItems = ["immersive_weathering:icicle"]
+waterItemRestorationTicks = 5000
+allowWaterBottles = true
+seaHydrationBlocks = ["minecraft:ice", "minecraft:snow", "minecraft:powder_snow", "minecraft:snow_block", "minecraft:muddy_mangrove_roots", "minecraft:mud", "minecraft:wet_sponge", "dragonsurvival:sea_source_of_magic", "immersive_weathering:thin_ice", "immersive_weathering:cryosol", "immersive_weathering:permafrost", "immersive_weathering:frosty_grass", "immersive_weathering:frosty_fern", "ecologics:thin_ice", "ecologics:ice_bricks", "ecologics:ice_brick_stairs", "ecologics:ice_brick_slab", "ecologics:ice_brick_wall", "ecologics:snow_bricks", "ecologics:snow_brick_stairs", "ecologics:snow_brick_slab", "ecologics:snow_brick_wall", "architects_palette:poliched_packed_ice", "architects_palette:poliched_packed_ice_slab", "architects_palette:poliched_packed_ice_vertical_slab", "architects_palette:poliched_packed_ice_stairs", "architects_palette:poliched_packed_ice_wall", "architects_palette:chiseled_packed_ice", "architects_palette:packed_ice_pillar", "architects_palette:coarse_snow", "fantasyfurniture:decorations/snowballs", "immersive_weathering:icicle", "regions_unexplored:plains_mud", "regions_unexplored:silt_mud", "regions_unexplored:peat_mud", "regions_unexplored:forest_mud", "naturearchitect:snow_block_0", "naturearchitect:snow_block_2", "naturearchitect:snow_cover_1", "naturearchitect:snow_cover_2", "naturearchitect:snow_cover_3", "naturearchitect:snow_block_2", "immersive_weathering:snowy_stone_brick_wall", "immersive_weathering:snowy_stone_brick_stairs", "immersive_weathering:snowy_chiseled_stone_bricks", "immersive_weathering:snowy_stone_bricks", "immersive_weathering:snowy_cobblestone_wall", "immersive_weathering:snowy_cobblestone_slab", "immersive_weathering:snowy_cobblestone_stairs", "immersive_weathering:snowy_cobblestone", "immersive_weathering:snowy_stone_wall", "immersive_weathering:snowy_stone_slab", "immersive_weathering:snowy_stone_stairs", "immersive_weathering:snowy_stone", "immersive_weathering:snow_brick_wall", "immersive_weathering:snow_brick_slab", "immersive_weathering:snow_brick_stairs", "immersive_weathering:snow_bricks", "frozenup:compacted_snow_foundation", "frozenup:compacted_snow_brick_vertical_slab", "frozenup:compacted_snow_brick_slab", "frozenup:compacted_snow_brick_stairs", "frozenup:compacted_snow_bricks", "frozenup:compacted_snow_brick_stairs"]
+dehydrationDamage = 1.0
+waterConsumptionDependsOnTemperature = true
+ticksWithoutWater = 1000
+
+[penalties.forest]
+stressExhaustion = 1.0
+stressEffectDuration = 10
+ticksBeforeStressed = 100
+
+[penalties.cave]
+splashDamage = 2.0
+rainDamage = 1.0
+waterDamage = 1.0
+
+[bonuses]
+speedupEffectLevel = 2
+bonusUnlockedAt = "YOUNG"
+bonusBreakSpeedReduction = 2.0
+baseBreakSpeedAdult = 1.5
+bonusBreakSpeedAdult = 2.5
+bonusBreakSpeed = 2.0
+bonusHarvestLevel = 1
+baseHarvestLevel = 0
+clawsAreTools = true
+adultStepHeight = 1.0
+youngStepHeight = 0.5
+newbornStepHeight = 0.0
+adultJump = 0.15
+youngJump = 0.1
+newbornJump = 0.025
+adultAttackMod = 3.0
+youngAttackMod = 2.0
+babyAttackMod = 1.0
+attackMod = true
+bonuses = true
+healthMod = true
+
+[bonuses.sea]
+seaSpeedupBlocks = ["minecraft:ice", "minecraft:impermeable", "minecraft:sand", "minecraft:mud", "minecraft:coral_blocks", "forge:sand", "minecraft:dirt_path", "minecraft:sandstone", "minecraft:cut_sandstone", "minecraft:chiseled_sandstone", "minecraft:smooth_sandstone", "minecraft:red_sandstone", "minecraft:cut_red_sandstone", "minecraft:chiseled_red_sandstone", "minecraft:smooth_red_sandstone", "minecraft:water", "quark:permafrost", "immersive_weathering:permafrost", "architects_palette:polished_packed_ice"]
+waterBonuses = true
+
+[bonuses.forest]
+forestSpeedupBlocks = ["minecraft:logs", "minecraft:leaves", "minecraft:planks", "forge:dirt", "minecraft:grass", "minecraft:dirt", "minecraft:wooden_slab"]
+cactiImmunity = true
+bushImmunity = true
+fallReduction = 5.0
+
+[bonuses.cave]
+caveSpeedupBlocks = ["minecraft:base_stone_nether", "minecraft:base_stone_overworld", "minecraft:stone_bricks", "minecraft:beacon_base_blocks", "forge:cobblestone", "forge:sandstone", "forge:stone", "forge:ores", "quark:deepslate", "quark:deepslate_bricks", "quark:cobbled_deepslate", "minecraft:lava", "minecraft:fire", "minecraft:soul_fire"]
+lavaSwimTicks = 3600
+lavaSwimming = true
+fireImmunity = true
+
+[bonuses.body]
+bodyAffectsHitbox = true
+
+[bonuses.body.west]
+westGravityMult = 1.0
+westFlightStaminaMult = 0.2
+westFlightMult = 1.2
+westExpMult = 1.0
+westRunMult = 0.9
+westKnockbackBonus = 0.5
+westHealthMult = 1.0
+westHealthBonus = 0.0
+westSwimSpeedBonus = -0.2
+westManaBonus = 0.0
+westArmorBonus = 0.0
+westDamageMult = 1.0
+westDamageBonus = 0.0
+westStepBonus = 1.0
+westJumpBonus = 0.0
+
+[bonuses.body.south]
+southGravityMult = 1.2
+southFlightStaminaMult = 1.2
+southFlightMult = 0.8
+southExpMult = 1.0
+southRunMult = 1.2
+southKnockbackBonus = 0.0
+southHealthMult = 1.0
+southHealthBonus = 0.0
+southSwimSpeedBonus = -0.2
+southManaBonus = 0.0
+southArmorBonus = 0.0
+southDamageMult = 1.0
+southDamageBonus = 0.5
+southStepBonus = 0.0
+southJumpBonus = 0.4
+
+[bonuses.body.north]
+northGravityMult = 1.0
+northFlightStaminaMult = 1.2
+northFlightMult = 1.0
+northExpMult = 1.0
+northRunMult = 0.7
+northKnockbackBonus = -0.5
+northHealthMult = 1.0
+northHealthBonus = 0.0
+northSwimSpeedBonus = 1.5
+northManaBonus = 2.0
+northArmorBonus = 0.0
+northDamageMult = 0.8
+northDamageBonus = 0.0
+northStepBonus = 0.0
+northJumpBonus = 0.0
+
+[bonuses.body.east]
+eastGravityMult = 1.0
+eastFlightStaminaMult = 1.2
+eastFlightMult = 1.0
+eastExpMult = 1.0
+eastRunMult = 1.1
+eastKnockbackBonus = -1.0
+eastHealthMult = 1.0
+eastHealthBonus = 0.0
+eastSwimSpeedBonus = 0.5
+eastManaBonus = 2.0
+eastArmorBonus = 2.0
+eastDamageMult = 1.0
+eastDamageBonus = -1.0
+eastStepBonus = 0.0
+eastJumpBonus = 0.2
+
+[bonuses.body.center]
+centerGravityMult = 1.0
+centerFlightStaminaMult = 1.0
+centerFlightMult = 1.2
+centerExpMult = 1.0
+centerRunMult = 1.0
+centerKnockbackBonus = 0.0
+centerHealthMult = 1.0
+centerHealthBonus = 0.0
+centerSwimSpeedBonus = 0.0
+centerManaBonus = 0.0
+centerArmorBonus = 0.0
+centerDamageMult = 1.0
+centerDamageBonus = 0.0
+centerStepBonus = 0.0
+centerJumpBonus = 0.0
+
+[source_of_magic]
+elderDragonHeartTime = 1010
+weakDragonHeartTime = 310
+weakHeartShardTime = 110
+elderDragonBoneTime = 60
+elderDragonDustTime = 20
+canUseAllSourcesOfMagic = false
+damageWrongSourceOfMagic = true
+sourceOfMagicInfiniteMagic = true
+
+[treasure]
+maxTreasures = 240
+treasureRegenTicksReduce = 1
+treasureRegenTicks = 241
+treasureHealthRegen = true
+
+[growth]
+maxHealthSize = 40
+maxHealth = 40
+minHealth = 14
+saveGrowthStage = false
+maxGrowthSize = 60.0
+alternateGrowing = true
+growAdult = ["dragonsurvival:elder_dragon_heart"]
+growYoung = ["dragonsurvival:weak_dragon_heart", "dragonsurvival:elder_dragon_heart"]
+growNewborn = ["dragonsurvival:heart_element", "dragonsurvival:weak_dragon_heart", "dragonsurvival:elder_dragon_heart"]
+
+[growth.standard_dragon]
+maxGrowthModifier = 1.0
+adultGrowthModifier = 0.9
+youngGrowthModifier = 0.5
+newbornGrowthModifier = 0.3
+reachBonus = 0.5
+moveSpeedAdult = 1.0
+moveSpeedYoung = 1.0
+moveSpeedNewborn = 1.0
+largerDragonHitbox = true
+sizeChangesHitbox = true
+
+[growth.big_dragon]
+largeBlockBreakRadiusScalar = 0.7
+largeStepHeightScalar = 1.0
+largeReachScalar = 0.5
+largeDamageBonus = 6.0
+largeMovementSpeedScalar = 0.0
+largeMaxHealth = 80
+allowLargeScaling = false
+crushingSize = 120.0
+crushingDamageScalar = 0.05
+allowCrushing = false
+largeBlockDestructionSize = 120.0
+largeBlockDestructionRemovePercentage = 0.96
+allowLargeBlockDestruction = false
+useBlacklistForDestructibleBlocks = false
+disableDefaultDestructionTags = false
+destructibleBlocks = ["minecraft:leaves"]

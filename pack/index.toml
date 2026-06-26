@@ -54,6 +54,10 @@ file = "config/yigd.json"
 hash = "1e3ccb30f8368175415bd8cefcae5fbb8bd462dcfc751eca6e5e9f6f502581a2"
 
 [[files]]
+file = "defaultconfigs/dragonsurvival-server.toml"
+hash = "db3b16a9f87ab92ce22fb20dd16bfe9fce6e361fc1393da49408824ee75cf585"
+
+[[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
 hash = "fa1a211f5d9b320ec68a01cfd205b8f5cf48ed95cf1216bfe6b9ef7a241690af"
 
@@ -105,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/aures-dragon-survival.pw.toml"
-hash = "9f1bc3d89cc0fec49c3bf2b777a2522713b46f62ddc9ad0ff7981df8a06d267d"
+hash = "9228639c1d089f0b8f4ee5e89ab278a0875168f57ee05b62e06b8d058ee62208"
 metafile = true
 
 [[files]]
