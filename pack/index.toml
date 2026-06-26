@@ -679,6 +679,11 @@ file = "moonlight-global-datapacks/DrakanHex/pack.mcmeta"
 hash = "b3e2f648b7d37363584063a45477a64df27f7252c6b2d034c4648d05c9894263"
 
 [[files]]
+file = "options.txt"
+hash = "d28a6e4b2c1ab1c60fd209d733233c8162ca9901dea420b3a9b08d9dced88641"
+preserve = true
+
+[[files]]
 file = "resourcepacks/Computer Craft Recreated v1.3.zip"
 hash = "43fd9bff4ddb9f222c76937209d3838eb19ea0d365c861143b8a9d4dd9ea2d2b"
 
