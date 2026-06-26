@@ -675,15 +675,15 @@ hash = "bb762486e5ff7ca6009bd9ed16bbefc63425d2d8c3a0d1111a6f2aaabe3acb5e"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/tags/hexcasting/action/can_start_enlighten.json"
-hash = "39489d31ec2f619dae66e42adeaff8c5982eff2866a0ba9529a872ecc1dd0e1d"
+hash = "94e7902dc487ec3ceee173d81ba2c8d600fc8b4f6656c4ec4ee8e4ded6ddbb7a"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/tags/hexcasting/action/per_world_pattern.json"
-hash = "39489d31ec2f619dae66e42adeaff8c5982eff2866a0ba9529a872ecc1dd0e1d"
+hash = "94e7902dc487ec3ceee173d81ba2c8d600fc8b4f6656c4ec4ee8e4ded6ddbb7a"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/hexcasting/tags/hexcasting/action/requires_enlightenment.json"
-hash = "15118fd06bcfdd17f7dd03cf90da2d41c5680991a36ef21771ee78139a8394f2"
+hash = "ac0e27f3afacf58f0b5c33da3d7d74c04a20c3bd21d17cd6f6f273da42002257"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/minecraft/tags/blocks/mineable/pickaxe.json"

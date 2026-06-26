@@ -16,6 +16,7 @@
         "oneironaut:dimteleport",
         "oneironaut:swapspace",
         "oneironaut:applynotmissing",
-        "oneironaut:resistdetection"
+        "oneironaut:resistdetection",
+        "oneironaut:applymindrender"
     ]
 }
