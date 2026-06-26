@@ -17,6 +17,10 @@ file = "config/EasyAuth/storage.conf"
 hash = "39378caea29920fb1ac5aaf4b9e12a0baef7abd39bf98f768a190537d06efb20"
 
 [[files]]
+file = "config/alexsmobs.toml"
+hash = "c944598fba0430e071cd9d57303a0f83dc1273fb6ccb3024b8dd15a81b3f2230"
+
+[[files]]
 file = "config/crash_assistant/config.toml"
 hash = "3bfca43b8a0c909d6020bb1c8de27f7f303db7449db924afdadd85262b47f5c9"
 
