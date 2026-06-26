@@ -77,6 +77,11 @@ hash = "b4c87f972a7933239ea31636d9b02fea985429320de4310b7dda5b8510831640"
 metafile = true
 
 [[files]]
+file = "mods/caduceus.pw.toml"
+hash = "eb0f609182b37f8669cad5ada22c83453e0e3f321f5ff20d89f2fe2ca325bcfd"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
 metafile = true
