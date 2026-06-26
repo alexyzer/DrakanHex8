@@ -55,7 +55,7 @@ hash = "1e3ccb30f8368175415bd8cefcae5fbb8bd462dcfc751eca6e5e9f6f502581a2"
 
 [[files]]
 file = "defaultconfigs/dragonsurvival-server.toml"
-hash = "db3b16a9f87ab92ce22fb20dd16bfe9fce6e361fc1393da49408824ee75cf585"
+hash = "e45a5c63952185c73084b5019d87ce5f92cf0a5d1b7204ce914923faba14bca5"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
