@@ -50,6 +50,10 @@ hash = "690ecaab33f6d9d5599ffdf340b92980eaa92ea1231edd1b6d9e81553b9a3ee3"
 preserve = true
 
 [[files]]
+file = "config/yigd.json"
+hash = "1e3ccb30f8368175415bd8cefcae5fbb8bd462dcfc751eca6e5e9f6f502581a2"
+
+[[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
 hash = "fa1a211f5d9b320ec68a01cfd205b8f5cf48ed95cf1216bfe6b9ef7a241690af"
 
