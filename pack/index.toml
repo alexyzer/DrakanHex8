@@ -297,6 +297,11 @@ file = "mods/hexcessible-0.2.0-0ec6ad52.jar"
 hash = "1d3bf835c4c8e3ffca7172da916f87ccaabf00bcf3c8c80fddb45f468164f432"
 
 [[files]]
+file = "mods/hexchanting.pw.toml"
+hash = "a7405f33ae83afcdcaa997eb9f164718692a54604f8d7be578d39180ddd25bf8"
+metafile = true
+
+[[files]]
 file = "mods/hexconnect.pw.toml"
 hash = "ca0941abe060920af7c7c48766dd6e09976da18afedd0f2d67c976dd92d1f0cb"
 metafile = true
