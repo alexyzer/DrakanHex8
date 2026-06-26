@@ -104,6 +104,11 @@ hash = "0700d17f36cd6b256bc65d30c79068d2627faacc7d6a601140445740c8960743"
 metafile = true
 
 [[files]]
+file = "mods/aures-dragon-survival.pw.toml"
+hash = "9f1bc3d89cc0fec49c3bf2b777a2522713b46f62ddc9ad0ff7981df8a06d267d"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "f257604545941d11f4f44d4616ea24427ef0f8e1a056bbb65567081b6f7efb31"
 metafile = true
