@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/BOfbzRMc/open-parties-and-claims-forge-1.20.1-0.27.5.jar"
-hash-format = "sha512"
-hash = "b2d27efef2cda2f3e47795ae573471ef80966eefd05a85772e5f08899a0283506eecb72e3cda294eb06bc0ffdb39968a5dfc085dcb160f30ae52a4b9b69ec44f"
+hash-format = "sha1"
+hash = "cdad84552f47e66a563b53907dcb6f5405a74058"
 
 [update]
 [update.modrinth]

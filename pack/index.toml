@@ -467,7 +467,7 @@ hash = "cb2a05bf8832729df707221a43f25d09d05ff28779fe7d4bd3e0a27215321900"
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "5280600aefd2b944d584c8946865e1b5d445ffc5709bfe96d0ca57f663e22403"
+hash = "36a8642ac6570d5584dd61ab318cdf7d236ea4f5e3e448ad5b7abf761627fc29"
 metafile = true
 
 [[files]]
@@ -616,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "fc1d7a1ee1bb2d4906b2686d105c82b67297e8a8376bd3882fea0fdb7e6499eb"
+hash = "634e04c7df7c1cdb6a86b841c8053be60a6475f2d6869bc6f9edbf6ecb0d3a79"
 metafile = true
 
 [[files]]
@@ -690,7 +690,7 @@ hash = "b3e2f648b7d37363584063a45477a64df27f7252c6b2d034c4648d05c9894263"
 
 [[files]]
 file = "options.txt"
-hash = "d28a6e4b2c1ab1c60fd209d733233c8162ca9901dea420b3a9b08d9dced88641"
+hash = "6e8eb4ce69d39f06dfc26a73755ff1dba312d5ee721492134c47532cb1f665a8"
 preserve = true
 
 [[files]]
