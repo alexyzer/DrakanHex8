@@ -319,6 +319,11 @@ file = "mods/hexpose-1.0.0-31999cf2.jar"
 hash = "ad85da67632f77e6b8e5078d88de076082d1a79196d266f7c29be78e30e859c2"
 
 [[files]]
+file = "mods/hexsbm.pw.toml"
+hash = "76e60bfdbf368ebcc0e58f93dfb4f200512bdf3a32321e51561661f4f886d412"
+metafile = true
+
+[[files]]
 file = "mods/hextended-staves.pw.toml"
 hash = "f24bbafda4b129d94153f559f3f3612c6a96f167208f8e8f7c9d7a00237536e1"
 metafile = true
