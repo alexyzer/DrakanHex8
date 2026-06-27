@@ -339,8 +339,8 @@ hash = "30f572e27d09f8ccf6dbc74802161c00973cb7b2b400a4cd6c5dc02d7cb1363e"
 metafile = true
 
 [[files]]
-file = "mods/hexcassettes-2.0.0-b7d281b.jar"
-hash = "72b1fe014baa6693434c48e74bea118ff3a5dc063ec0bf26779488d8b8087bc0"
+file = "mods/hexcassettes-2.0.0-241f932c.jar"
+hash = "735d873d8be82792279cfe0639025834fe0a2fdbea93091dc39abcb0104419b1"
 
 [[files]]
 file = "mods/hexcellular.pw.toml"
