@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcassettes-2.0.0-241f932c.jar"
-hash = "735d873d8be82792279cfe0639025834fe0a2fdbea93091dc39abcb0104419b1"
+hash = "90a7ffa1bfebf45c82aea14a170b5fbe9dcf29370c9de2b8650cbd96d5141711"
 
 [[files]]
 file = "mods/hexcellular.pw.toml"
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexpose-1.0.0-31999cf2.jar"
-hash = "ad85da67632f77e6b8e5078d88de076082d1a79196d266f7c29be78e30e859c2"
+hash = "356291e448ddeab8ab3cd3aee73e16a168be09636c8a45cd6ef9beae40bd96e7"
 
 [[files]]
 file = "mods/hexsbm.pw.toml"
