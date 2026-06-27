@@ -552,6 +552,11 @@ hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "910ff4db4838e034b3d792205de05aabb88558a5093cfa1a6f37efb02406ddb0"
 metafile = true
@@ -559,6 +564,11 @@ metafile = true
 [[files]]
 file = "mods/quick-skin.pw.toml"
 hash = "121684277b82efead82ba7cd70c1674adc4b1e1270aea92f5ed1425f87c3fcbc"
+metafile = true
+
+[[files]]
+file = "mods/refined-polymorphism.pw.toml"
+hash = "810be2eee9a8015c867b5626ece99fe6bea1632755fb6dac87f4b81c022b8023"
 metafile = true
 
 [[files]]
