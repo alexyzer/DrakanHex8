@@ -338,8 +338,8 @@ file = "mods/hexcassettes-2.0.0-241f932c.jar"
 hash = "90a7ffa1bfebf45c82aea14a170b5fbe9dcf29370c9de2b8650cbd96d5141711"
 
 [[files]]
-file = "mods/hexcasting-forge-1.20.1-0.11.3-b60b7edb.jar"
-hash = "b92bfb9c8284407bd215b95e47439fed003a8e69a4895213e612f8be51047e57"
+file = "mods/hexcasting-forge-1.20.1-0.11.3-1d405105.jar"
+hash = "fe87fa1e1f723ab031372ada9c5cc14799072f6e9ec5794a8318e05925c6707d"
 
 [[files]]
 file = "mods/hexcellular.pw.toml"
