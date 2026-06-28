@@ -5122,6 +5122,11 @@ file = "emotes/SPE_to die by hitting the wall.png"
 hash = "fc7630611bb31298d5cff83a0a71ea9926a2fa72f5094d3301a5d82f7691a0cd"
 
 [[files]]
+file = "mods/absorption-fix.pw.toml"
+hash = "a5c8117a4ce7aae65038fe8fa1441c15c93d5096c78a54b2f6ceae58a85d95b5"
+metafile = true
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "79fed6eaf7f25c8215fab9d74edfbc46d6731c2b1199f07c8dc7ed0d57c94e4a"
 metafile = true
