@@ -5539,6 +5539,11 @@ hash = "174438da0f3741615f7ae2ad861fed0f1c72f51fe1a8aaf0acc1e8597c069417"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "1d4cd53d9210a6ce9f5d3e7edcb325365fef0c3ccbc05657797ec53063560315"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "8f307389d1b53c281b85c2f29184fe712ed007ec7b4c425664ec46fee18c0466"
 metafile = true
