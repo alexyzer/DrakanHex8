@@ -1,0 +1,18 @@
+name = "Inventory Essentials"
+filename = "inventoryessentials-forge-1.20.1-8.2.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Boon8xwi/versions/gAwAxBNT/inventoryessentials-forge-1.20.1-8.2.17.jar"
+hash-format = "sha512"
+hash = "ae7043475485a953d6fe72e80ed5e4df5fc76139f69fdfd672fffea22e0dd95cae8eb053dab176076c642b8e99edcdf824fabd51429ec0830dc87a92c04ceb60"
+
+[update]
+[update.modrinth]
+mod-id = "Boon8xwi"
+version = "gAwAxBNT"
+
+[option]
+optional = true
+description = "Улучшенная работа с инвентарём."
+default = true
