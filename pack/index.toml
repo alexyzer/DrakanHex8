@@ -5539,6 +5539,11 @@ hash = "7504f9c1144304141623936984a985288a8bdd3dd6aadc69d0d0600a4781b75f"
 metafile = true
 
 [[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "d523d495ab022346d3789c0bb0c24a5c78c1cbb661e48b6fc1c15f322a02ed74"
+metafile = true
+
+[[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "a49ab9e78c0f5341adc9138795dd7a0be36bb28f749664b08414502028c73cd9"
 metafile = true
