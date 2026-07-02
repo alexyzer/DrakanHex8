@@ -5354,10 +5354,6 @@ hash = "fc6bed09bfeae0920968c6a6a723791fe8011d794ab91f27c3f4fad6a3f718b7"
 metafile = true
 
 [[files]]
-file = "mods/furniture-1.0.4-a97f3102.jar"
-hash = "575d3341545150912e96e82057cba51fbe3a15944d11e27c5efa7302bba91624"
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "824e24a57c93ca7dac91c267305db8fb2f5ef03d17cf950c20984c22d14f29e7"
 metafile = true
@@ -5506,6 +5502,10 @@ metafile = true
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1ebe3280f7a3f385898ea7c0398d0cf16ad977084771d01e13677b78304604f6"
 metafile = true
+
+[[files]]
+file = "mods/letsdo-furniture-forge-1.0.4-a97f3102.jar"
+hash = "20cb2e6f4f5edbf3e4c83668a3b13a7019f617bd914a14c5dfc70c199e80a552"
 
 [[files]]
 file = "mods/lithosphere.pw.toml"
