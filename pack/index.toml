@@ -5202,6 +5202,11 @@ hash = "7bdef9e39ded30785e5cf8a21e24b8b5f5e9faffe3414e1a08d0d919ea28c14c"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "acde4205ced3565462e356d6aa82149a8ce1e8809b84b4756798a7251efa90ac"
+metafile = true
+
+[[files]]
 file = "mods/chipped-express.pw.toml"
 hash = "8da87b74bc37e64d8df28a39416c7020738d97295db5cab7d1b9e9f8814fdcf8"
 metafile = true
