@@ -5301,6 +5301,11 @@ hash = "956c477b2088ba16aa69b52e7d6f67ce393f83d500d32113b65281e7e32f80b0"
 metafile = true
 
 [[files]]
+file = "mods/drogstyle.pw.toml"
+hash = "929117b53b88229ad2d1110fbcd4fa2906a70c09ab7409ec7bb7e1e9d475cb48"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "3223636654b690a235a48dc94af6ab52fb09522d3c75ef192905c2baf1dc5b47"
 metafile = true
@@ -5713,6 +5718,11 @@ metafile = true
 [[files]]
 file = "mods/straw-statues.pw.toml"
 hash = "e9423384e71010bf8e1d983430154b19d39409304754794292dcf37e2d937569"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "df3dab0a368d87080cf735e0c0a253962e47a9ed6b40054736b52e375a471e2d"
 metafile = true
 
 [[files]]
