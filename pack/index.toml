@@ -5775,6 +5775,10 @@ file = "moonlight-global-datapacks/DrakanHex/data/complexhex/loot_tables/blocks/
 hash = "bfeac44f1d86aed9e81b90465af4fcad82abc401e84bbd824635bb8a35e7540a"
 
 [[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/recipes/phantom_membrane.json"
+hash = "20c25db86211cb16c9e08835c65d8a90eab304dc6e86d0c2f3d0f668e8c113c4"
+
+[[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/forge/loot_modifiers/global_loot_modifiers.json"
 hash = "374e9f09fd958c44d36d8b08b3e5ebda7f4a41688ceaf64aaa647cf1fff52bc8"
 
