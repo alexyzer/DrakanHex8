@@ -5840,12 +5840,16 @@ hash = "b3e2f648b7d37363584063a45477a64df27f7252c6b2d034c4648d05c9894263"
 
 [[files]]
 file = "options.txt"
-hash = "cbafc6afc5e43d99f0c141c5deb06d2e60b89d299672de603d778f9b70bd17d1"
+hash = "37252298e959ccfe830f2ace132fcfc5d97a867b262cfc3ced25392bc198ca07"
 preserve = true
 
 [[files]]
 file = "resourcepacks/Computer Craft Recreated v1.3.zip"
 hash = "43fd9bff4ddb9f222c76937209d3838eb19ea0d365c861143b8a9d4dd9ea2d2b"
+
+[[files]]
+file = "resourcepacks/Hex DragonWorld.zip"
+hash = "8cf33dffccedc5dc25167922a25133a978b329ec0054843c16a44f59ab69f3c9"
 
 [[files]]
 file = "resourcepacks/aures-create-style-for-refined-storage.pw.toml"
