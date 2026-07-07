@@ -5783,6 +5783,22 @@ file = "moonlight-global-datapacks/DrakanHex/data/complexhex/loot_tables/blocks/
 hash = "bfeac44f1d86aed9e81b90465af4fcad82abc401e84bbd824635bb8a35e7540a"
 
 [[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/entity-limit.mcfunction"
+hash = "2c753fca03a601f4a48de1d6f4b91d17d7c0e0bcb786f325d6caf1fe26a5002f"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/load.mcfunction"
+hash = "8ebd5a9891c1b285b6cb50eaedf373fec540c1cf46d29fb77ef866a96ec3e812"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/tick20.mcfunction"
+hash = "f7fae9fb041a748d41bcdf52861ce69e8f403d5adfe8e1e843cc3eff623c842f"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/tick200.mcfunction"
+hash = "7cb52229bedf815ca8c1e8f9e3dd3d228a1347b11b17f8648f6c8ba3bef66582"
+
+[[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/recipes/phantom_membrane.json"
 hash = "20c25db86211cb16c9e08835c65d8a90eab304dc6e86d0c2f3d0f668e8c113c4"
 
@@ -5817,6 +5833,10 @@ hash = "ac0e27f3afacf58f0b5c33da3d7d74c04a20c3bd21d17cd6f6f273da42002257"
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/minecraft/tags/blocks/mineable/pickaxe.json"
 hash = "2cde23524f75cfd5506fb1ae87c84a58a1e9ebbd444f034bb6e64364a1646e08"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/minecraft/tags/functions/load.json"
+hash = "6b951052889ee06eaf9ec74f7626d9846c3191cc5518d2f8ca5d361036bd430e"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/oneironaut/worldgen/placed_feature/volcano_basic_placed.json"
