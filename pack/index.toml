@@ -5441,11 +5441,6 @@ file = "mods/hexical-2.0.0-ea488a.jar"
 hash = "011ae858bba2bd3fd4cc35503f833272b86e36437e7aeb16d223a2ba3abe757f"
 
 [[files]]
-file = "mods/hexintent.pw.toml"
-hash = "88103db10f0db46ff6b44f18f3eb154467445af0b9654b7da52466535713ba74"
-metafile = true
-
-[[files]]
 file = "mods/hexparse.pw.toml"
 hash = "3a68262a467c928d50b6e1a749ffcdd7a22efd7c94ee46297e1405727c7f61f6"
 metafile = true
@@ -5541,6 +5536,10 @@ metafile = true
 file = "mods/luckperms.pw.toml"
 hash = "f8b4210300a8f2ce76a2329de37f2e671ac5dfeca17018528cadb333b019a814"
 metafile = true
+
+[[files]]
+file = "mods/manifestation-2.2.0-d976e696.jar"
+hash = "f0e0d1129f5541760d2140f44795a1dddd7559673bd02fa5df94535de5410ff4"
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
