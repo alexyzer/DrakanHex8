@@ -5676,6 +5676,10 @@ hash = "33c1012df4c3267ee9e70509001739908b2f2c72ae0b2728a750b3516644aa2c"
 metafile = true
 
 [[files]]
+file = "mods/scryglass-1.0.0.jar"
+hash = "2047f832c9de13f19c9bd3468e528326f6792bc8dea80d31fae78a8dc829c8c6"
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
