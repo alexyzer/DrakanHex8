@@ -5784,7 +5784,7 @@ hash = "bfeac44f1d86aed9e81b90465af4fcad82abc401e84bbd824635bb8a35e7540a"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/entity-limit.mcfunction"
-hash = "2c753fca03a601f4a48de1d6f4b91d17d7c0e0bcb786f325d6caf1fe26a5002f"
+hash = "f678b5c9bbbb9eb4bdf8d959e770460835b86f6856e0f3529d6674322c8706e4"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/load.mcfunction"
@@ -5792,7 +5792,7 @@ hash = "8ebd5a9891c1b285b6cb50eaedf373fec540c1cf46d29fb77ef866a96ec3e812"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/tick20.mcfunction"
-hash = "f7fae9fb041a748d41bcdf52861ce69e8f403d5adfe8e1e843cc3eff623c842f"
+hash = "2e7c74893dd2bb3fd4153d409e1895ecb948ae8f3ff4f4e0ec2564b7468a1562"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/tick200.mcfunction"
