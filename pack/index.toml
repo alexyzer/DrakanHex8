@@ -5792,7 +5792,7 @@ hash = "8ebd5a9891c1b285b6cb50eaedf373fec540c1cf46d29fb77ef866a96ec3e812"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/tick20.mcfunction"
-hash = "3f964f0dce9854b40e7caf412969715cebbfa07d29d8799c3b4212b3945cc4ab"
+hash = "20b71a348dad11253971a04ab366185c09b58ffc3ea2da2dca7672180d727aed"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/tick200.mcfunction"
