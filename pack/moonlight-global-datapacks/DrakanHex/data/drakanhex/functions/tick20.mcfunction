@@ -1,4 +1,4 @@
-schedule function drakanhex:tick20 20 replace
+#schedule function drakanhex:tick20 20 replace
 
 execute store result score limit_counter DrakanHex if entity @e[limit=501, type=allay]
 scoreboard players operation #tmp DrakanHex = limit_counter DrakanHex

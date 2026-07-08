@@ -5806,11 +5806,11 @@ hash = "f678b5c9bbbb9eb4bdf8d959e770460835b86f6856e0f3529d6674322c8706e4"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/load.mcfunction"
-hash = "8ebd5a9891c1b285b6cb50eaedf373fec540c1cf46d29fb77ef866a96ec3e812"
+hash = "5663318290fabcd59b4a13004cd733dc7ce86068e88bf6e7ea621c4aff51dcd1"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/tick20.mcfunction"
-hash = "20b71a348dad11253971a04ab366185c09b58ffc3ea2da2dca7672180d727aed"
+hash = "c928dbbd37db5392ebe390f495c50742cad46d3e3fd7a1ced150fc7401d9028c"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/tick200.mcfunction"
