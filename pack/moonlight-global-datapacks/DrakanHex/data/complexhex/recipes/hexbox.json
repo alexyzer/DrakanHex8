@@ -1,15 +1,14 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
-      "item": "hexical:pedestal"
-    },
-    {
-      "item": "minecraft:jukebox"
-    }
-  ],
+  "type": "hexcasting:brainsweep",
+  "blockIn": {
+    "type": "block",
+    "block": "minecraft:structure_void"
+  },
+  "cost": 0,
+  "entityIn": {
+    "type": "marker"
+  },
   "result": {
-    "item": "complexhex:hexbox",
-    "count": 1
+    "name": "minecraft:structure_void"
   }
 }

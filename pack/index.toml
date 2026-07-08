@@ -5784,6 +5784,10 @@ hash = "bfeac44f1d86aed9e81b90465af4fcad82abc401e84bbd824635bb8a35e7540a"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/complexhex/recipes/hexbox.json"
+hash = "0c449087d8f7b09ffdd0720655c77f91d4565725d5d989a64d9c044bd39a26d8"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/complexhex/recipes/hexbox_shapeless.json"
 hash = "d560af68c314cf5e3105b08522fc8d1ed89c591e0430eb8d0abcdb1cfe6b0ff1"
 
 [[files]]
