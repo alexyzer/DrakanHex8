@@ -5450,8 +5450,8 @@ hash = "3a68262a467c928d50b6e1a749ffcdd7a22efd7c94ee46297e1405727c7f61f6"
 metafile = true
 
 [[files]]
-file = "mods/hexpose-1.0.0-a0bd725b.jar"
-hash = "b44b6b5d1b5fa631f267d5a6119d6cd26a39b6b9578af8b822d03bad01805075"
+file = "mods/hexpose-1.0.0-3a57996e.jar"
+hash = "091f97f844d0a8d40a8001ac20174c2887aaf6fa46d65ed6237a79aa746b16ac"
 
 [[files]]
 file = "mods/hexsbm.pw.toml"
