@@ -5394,6 +5394,11 @@ hash = "77f39fdf45d4715fe7677d65ef2186cb232eb5359a6420e591522294135cdc62"
 metafile = true
 
 [[files]]
+file = "mods/harium.pw.toml"
+hash = "0ff53a81220aaf0d9e7e84415e3f99ec622e7535c051d5aef6f6156012edcb2c"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "6abb2b13654a4ae87bb38f7b47a770438657bf24c51f9fbe5ab596b8ece33d03"
 metafile = true
@@ -5462,6 +5467,11 @@ metafile = true
 [[files]]
 file = "mods/hextweaks-5.3.3.jar"
 hash = "fa5ef0deded66ebfae0b563660b0f2517065d72971ef2bb6aa9c44261d912761"
+
+[[files]]
+file = "mods/hmt-harimultithread.pw.toml"
+hash = "87b74d913b8559f4391f24822258f7560022ff9f45f0d2b634c7f2102c270082"
+metafile = true
 
 [[files]]
 file = "mods/ichunutil.pw.toml"
