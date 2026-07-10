@@ -5132,9 +5132,8 @@ hash = "79fed6eaf7f25c8215fab9d74edfbc46d6731c2b1199f07c8dc7ed0d57c94e4a"
 metafile = true
 
 [[files]]
-file = "mods/alexs-mobs.pw.toml"
-hash = "c107c014f7703badbf59958405f64b888a1b5a56e21d8092e204c851032c3a6e"
-metafile = true
+file = "mods/alexsmobs-1.22.9-tamable-snep.jar"
+hash = "4aa7833f788ea2ac798489f5b135c9cbb55e6fadf470df58be9e6507122c7240"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
