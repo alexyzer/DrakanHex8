@@ -5388,11 +5388,6 @@ hash = "b8ffa48e1f9e0cae2d396e1ca0942ab7ee99fc675c81208fb38909696b0ec968"
 metafile = true
 
 [[files]]
-file = "mods/grieflogger.pw.toml"
-hash = "77f39fdf45d4715fe7677d65ef2186cb232eb5359a6420e591522294135cdc62"
-metafile = true
-
-[[files]]
 file = "mods/harium.pw.toml"
 hash = "0ff53a81220aaf0d9e7e84415e3f99ec622e7535c051d5aef6f6156012edcb2c"
 metafile = true
