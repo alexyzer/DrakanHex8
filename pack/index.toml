@@ -5536,8 +5536,8 @@ hash = "f8b4210300a8f2ce76a2329de37f2e671ac5dfeca17018528cadb333b019a814"
 metafile = true
 
 [[files]]
-file = "mods/manifestation-2.2.0-185442b1.jar"
-hash = "354bcfb9e899ec72f440b75b137954d0ec636c4e3f1249a91a416264c3f823bb"
+file = "mods/manifestation-2.2.0-d442164d.jar"
+hash = "e302b2db201b6280b31b6e81d7e15a0559dd022dd56a351b7d920f9ac906d274"
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
