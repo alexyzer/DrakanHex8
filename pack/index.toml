@@ -5290,6 +5290,11 @@ hash = "34d19bd64f328e8a1d7c989a49cb8ce1b6def21edb6a1ce9e74148a1b8530875"
 metafile = true
 
 [[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "62044060c7e95a515e8e29e0abb36c3541bb4a49e0d2dcaa77aa6ceee6f446e7"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "f29649a5d57217d6b54f9cf96a73a230406d1e5948c2d112c39319158cdfa46d"
 metafile = true
