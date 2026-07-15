@@ -5236,8 +5236,8 @@ hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
 metafile = true
 
 [[files]]
-file = "mods/complexHELL-fabric-1.20.1-0.1.6-beta.jar"
-hash = "bfb40600d2a2669a8a35137fb50858d6b4213b5c5cdab8f2aed4a7e2964b3723"
+file = "mods/complexhex-5865deb9.jar"
+hash = "c16abb20e9b2c55880ce19ec140155d4dcc099a8fef8d675cdc52a4d2672bf76"
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
