@@ -21,7 +21,7 @@ modrinth.com
 github.com
 ```
 ## Prism Launcher
-### Для [Prism Launcher](<https://prismlauncher.org/>) и его **[пиратского аналога](<https://github.com/ElyPrismLauncher/ElyPrismLauncher/releases/download/10.0.2/ElyPrismLauncher-Windows-MSVC-Setup-10.0.2.exe>)** с авто обновлениями:
+### Для [Prism Launcher](<https://prismlauncher.org/>) и его **[пиратского аналога](<https://elyprismlauncher.github.io>)** с авто обновлениями:
 - Скачиваем [**DrakanHex8.prism.zip**](<https://github.com/alexyzer/DrakanHex8/releases/download/1.0.0/DrakanHex8.prism.zip>), перетаскиваем в окно лаунчера и запускаем.
 
 
