@@ -1,0 +1,13 @@
+name = "Ban Hammer"
+filename = "banhammer-1.20-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uDRiwRG2/versions/w5ztG3oV/banhammer-1.20-2.2.jar"
+hash-format = "sha512"
+hash = "a319d69f0ee9faa76c09c0e610c1a1f053baef58fd02059066f43a2f02c54328c29203bedf6ecba5e8a9e730cec8e8b80799fc2dcd835a331606fdcf46cc092e"
+
+[update]
+[update.modrinth]
+mod-id = "uDRiwRG2"
+version = "w5ztG3oV"
