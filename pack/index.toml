@@ -5586,7 +5586,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-tracker-1-20-1.pw.toml"
-hash = "da8eb6448bc0d7e344f367622f2093a49f7a478e7eda7856c352ffd658dc8551"
+hash = "f8aa52f6fbc02c68241d1c9f69eb03ecbc59bccb2eeb74e748e536e4fdb8a27d"
 metafile = true
 
 [[files]]
