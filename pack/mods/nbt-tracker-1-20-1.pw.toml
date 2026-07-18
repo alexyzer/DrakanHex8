@@ -1,0 +1,18 @@
+name = "NBT Tracker"
+filename = "nbttracker-1.0.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "05d89b578a3e2a41d77289603014fcb5acd101d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7911341
+project-id = 1511120
+
+[option]
+optional = true
+description = "Отображает вес предметов в байтах зажав \"Y\""
+default = true

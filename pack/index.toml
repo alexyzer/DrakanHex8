@@ -5585,6 +5585,11 @@ hash = "174438da0f3741615f7ae2ad861fed0f1c72f51fe1a8aaf0acc1e8597c069417"
 metafile = true
 
 [[files]]
+file = "mods/nbt-tracker-1-20-1.pw.toml"
+hash = "da8eb6448bc0d7e344f367622f2093a49f7a478e7eda7856c352ffd658dc8551"
+metafile = true
+
+[[files]]
 file = "mods/neruina.pw.toml"
 hash = "1d4cd53d9210a6ce9f5d3e7edcb325365fef0c3ccbc05657797ec53063560315"
 metafile = true
