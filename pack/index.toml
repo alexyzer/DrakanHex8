@@ -5310,6 +5310,11 @@ hash = "956c477b2088ba16aa69b52e7d6f67ce393f83d500d32113b65281e7e32f80b0"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "4b63298aa4308cff0ed93cbfd4926abef55e1b419ab131942d7e71b8d5f6d33b"
+metafile = true
+
+[[files]]
 file = "mods/drogstyle.pw.toml"
 hash = "929117b53b88229ad2d1110fbcd4fa2906a70c09ab7409ec7bb7e1e9d475cb48"
 metafile = true
