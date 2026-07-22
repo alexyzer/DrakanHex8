@@ -5353,6 +5353,16 @@ hash = "2c41eb9789621601e9ca3869a5a9497037d2dacf1fdb95940b20710c339bdc56"
 metafile = true
 
 [[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "dfdb3e52331e484b629f449cdea34c4fe017e53b2fe9d6b0f9fb7e5ae09f39d7"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "c8ad39722e45e05e34a132a77a06c7ee78e52529ba017c71b8e48c15b2e60897"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "37e0e0628f0a9368392bc9cdfe420f3a4a15733e7fe5ee1a3c82ed46298ee287"
 metafile = true
