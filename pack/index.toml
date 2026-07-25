@@ -5610,6 +5610,11 @@ hash = "174438da0f3741615f7ae2ad861fed0f1c72f51fe1a8aaf0acc1e8597c069417"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "c53cec708a8ec3a256936c6a43567afbc1a2146529f7ed4dcf55a9a66a59cc65"
+metafile = true
+
+[[files]]
 file = "mods/nbt-tracker-1-20-1.pw.toml"
 hash = "f8aa52f6fbc02c68241d1c9f69eb03ecbc59bccb2eeb74e748e536e4fdb8a27d"
 metafile = true
