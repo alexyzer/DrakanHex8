@@ -5824,6 +5824,14 @@ file = "moonlight-global-datapacks/DrakanHex/data/complexhex/recipes/hexbox_shap
 hash = "d560af68c314cf5e3105b08522fc8d1ed89c591e0430eb8d0abcdb1cfe6b0ff1"
 
 [[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/cleanup/foreach.mcfunction"
+hash = "77046866f60718c6f44c144b85f55db76a4aa181f8ebb685d423e94e702c0c5b"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/cleanup/start.mcfunction"
+hash = "5482c465646f5eee3caed45b3dad96a0fb12482b9ac2cb2ea65d99ab65cf2b9a"
+
+[[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/entity-limit.mcfunction"
 hash = "f678b5c9bbbb9eb4bdf8d959e770460835b86f6856e0f3529d6674322c8706e4"
 
@@ -5838,6 +5846,10 @@ hash = "c928dbbd37db5392ebe390f495c50742cad46d3e3fd7a1ced150fc7401d9028c"
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/functions/tick200.mcfunction"
 hash = "7cb52229bedf815ca8c1e8f9e3dd3d228a1347b11b17f8648f6c8ba3bef66582"
+
+[[files]]
+file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/predicates/thrash.json"
+hash = "d6c23ae5b0dbb2636e42cffe90d5820111b9e99b95a3b25d64cc4ab3e6d3ac1d"
 
 [[files]]
 file = "moonlight-global-datapacks/DrakanHex/data/drakanhex/recipes/phantom_membrane.json"

@@ -1,0 +1,1 @@
+execute as @e[predicate=drakanhex:thrash] run function drakanhex:cleanup/foreach

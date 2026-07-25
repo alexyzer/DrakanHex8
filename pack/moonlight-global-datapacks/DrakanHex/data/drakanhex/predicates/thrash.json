@@ -1,0 +1,10 @@
+{"condition":"minecraft:any_of","terms":
+[{"condition":"minecraft:entity_properties","entity":"this","predicate":{"nbt":"{\"forge:spawn_type\":NATURAL,PersistenceRequired:0b}"}}
+,{"condition":"minecraft:entity_properties","entity":"this","predicate":{"nbt":"{Item:{id:\"minecraft:cobblestone\"}}"}}
+,{"condition":"minecraft:entity_properties","entity":"this","predicate":{"nbt":"{Item:{id:\"minecraft:netherrack\"}}"}}
+,{"condition":"minecraft:entity_properties","entity":"this","predicate":{"nbt":"{Item:{id:\"minecraft:flint\"}}"}}
+,{"condition":"minecraft:entity_properties","entity":"this","predicate":{"nbt":"{Item:{id:\"minecraft:egg\"}}"}}
+,{"condition":"minecraft:entity_properties","entity":"this","predicate":{"nbt":"{Item:{id:\"hexical:hex_gummy\"}}"}}
+,{"condition":"minecraft:entity_properties","entity":"this","predicate":{"nbt":"{Item:{id:\"hexical:hextito\"}}"}}
+,{"condition":"minecraft:entity_properties","entity":"this","predicate":{"nbt":"{Item:{id:\"hexical:hexburst\"}}"}}
+]}
