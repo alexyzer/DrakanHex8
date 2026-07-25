@@ -5250,6 +5250,11 @@ file = "mods/complexhex-5865deb9.jar"
 hash = "c16abb20e9b2c55880ce19ec140155d4dcc099a8fef8d675cdc52a4d2672bf76"
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "ca80a80a9a068c01ad3b2d8d484a943897b6e87325ca70e5dea2d59c2eba9160"
 metafile = true
@@ -5390,11 +5395,6 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "b7924afb479810a44becd11e885ad90eac91c77df7115539b2e93d74a451161e"
-metafile = true
-
-[[files]]
-file = "mods/forge-config-screens.pw.toml"
-hash = "59b3e2099b15b9df5b01a853931d7766648aec1d2b3a4acc6542f581c9eec0f6"
 metafile = true
 
 [[files]]
