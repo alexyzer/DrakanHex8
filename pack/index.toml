@@ -5161,6 +5161,11 @@ hash = "9228639c1d089f0b8f4ee5e89ab278a0875168f57ee05b62e06b8d058ee62208"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "e1f02c516cd1ce041331c6aabbdce15ab95c8d34d2a94b9dd3c330ee8eb0ec91"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "f257604545941d11f4f44d4616ea24427ef0f8e1a056bbb65567081b6f7efb31"
 metafile = true
