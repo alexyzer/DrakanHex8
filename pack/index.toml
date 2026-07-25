@@ -5181,6 +5181,11 @@ hash = "d83deba5abe7a9a2fa208b903d4b65876950fb0a5d69faeaadb2beb9e4a8adda"
 metafile = true
 
 [[files]]
+file = "mods/bendy-lib.pw.toml"
+hash = "eca6b381b376f57f9e123d6775b871343bed4f7bf53232bc5cd628dc3587d125"
+metafile = true
+
+[[files]]
 file = "mods/bettertabinfo.pw.toml"
 hash = "2c34d9c070321b138c58810461b14d713ac844df99111643ab5b7273074936f3"
 metafile = true
