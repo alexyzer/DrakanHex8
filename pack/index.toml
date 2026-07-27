@@ -54,6 +54,10 @@ hash = "690ecaab33f6d9d5599ffdf340b92980eaa92ea1231edd1b6d9e81553b9a3ee3"
 preserve = true
 
 [[files]]
+file = "config/supplementaries-client.toml"
+hash = "e216eacc44bb4d6127f11f75f1e60841d9bcc6d5c54535c6f1b22c8f2d3a459e"
+
+[[files]]
 file = "config/yigd.json"
 hash = "1e3ccb30f8368175415bd8cefcae5fbb8bd462dcfc751eca6e5e9f6f502581a2"
 
