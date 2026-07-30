@@ -56,6 +56,7 @@ preserve = true
 [[files]]
 file = "config/supplementaries-client.toml"
 hash = "e216eacc44bb4d6127f11f75f1e60841d9bcc6d5c54535c6f1b22c8f2d3a459e"
+preserve = true
 
 [[files]]
 file = "config/yigd.json"
