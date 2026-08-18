@@ -5469,8 +5469,8 @@ hash = "c24a42b811ed203a0f9feead401e281f9e2bacd36c768497ad151424f2e74a3e"
 metafile = true
 
 [[files]]
-file = "mods/hexical-2.0.0-ea488a.jar"
-hash = "011ae858bba2bd3fd4cc35503f833272b86e36437e7aeb16d223a2ba3abe757f"
+file = "mods/hexical-interpolation.jar"
+hash = "49d8b3b273b0165bb5ac4cb864a91f0c159f9c4d9d9d17ba1eb15a51bc11861c"
 
 [[files]]
 file = "mods/hexparse.pw.toml"
