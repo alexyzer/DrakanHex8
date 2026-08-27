@@ -1,0 +1,13 @@
+name = "HWID (Anti-Alts)"
+filename = "hwid_anti_alts-4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9d5005f8cdd01693c2dd7619d0e1cc9341bb17b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5353184
+project-id = 324400
