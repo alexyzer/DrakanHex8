@@ -5195,11 +5195,6 @@ hash = "2c34d9c070321b138c58810461b14d713ac844df99111643ab5b7273074936f3"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "f2b701beccc29cd54aec18a774cde0f7e432b6e75106bd3d0b010cdaaef6d606"
-metafile = true
-
-[[files]]
 file = "mods/caduceus.pw.toml"
 hash = "4e66a1755bc70957dc8cd5fccc742ebc49c867a10085351b332c9c087b8048ca"
 metafile = true
