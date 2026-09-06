@@ -4122,6 +4122,9 @@ file = "mods/hexparse.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/hexperf-forge-1.20.1-1.0.1.jar"
+
+[[files]]
 file = "mods/hexpose-1.0.0-3a57996e.jar"
 
 [[files]]
